@@ -1,0 +1,62 @@
+[
+    {
+        "Revision": "2017-06-01 09:44:47"
+    }, 
+    {
+        "Temporal_Resolution_Range": "1 minute - < 1 hour"
+    }, 
+    {
+        "Temporal_Resolution_Range": "1 second - < 1 minute"
+    }, 
+    {
+        "Temporal_Resolution_Range": "< 1 second"
+    }, 
+    {
+        "Temporal_Resolution_Range": "Annual Climatology"
+    }, 
+    {
+        "Temporal_Resolution_Range": "Annual"
+    }, 
+    {
+        "Temporal_Resolution_Range": "Climate Normal (30-year climatology)"
+    }, 
+    {
+        "Temporal_Resolution_Range": "Daily - < Weekly"
+    }, 
+    {
+        "Temporal_Resolution_Range": "Daily Climatology"
+    }, 
+    {
+        "Temporal_Resolution_Range": "Decadal"
+    }, 
+    {
+        "Temporal_Resolution_Range": "Diurnal"
+    }, 
+    {
+        "Temporal_Resolution_Range": "Hourly - < Daily"
+    }, 
+    {
+        "Temporal_Resolution_Range": "Hourly Climatology"
+    }, 
+    {
+        "Temporal_Resolution_Range": "Monthly - < Annual"
+    }, 
+    {
+        "Temporal_Resolution_Range": "Monthly Climatology"
+    }, 
+    {
+        "Temporal_Resolution_Range": "Pentad Climatology"
+    }, 
+    {
+        "Temporal_Resolution_Range": "Seasonal"
+    }, 
+    {
+        "Temporal_Resolution_Range": "Subannual"
+    }, 
+    {
+        "Temporal_Resolution_Range": "Weekly - < Monthly"
+    }, 
+    {
+        "Temporal_Resolution_Range": "Weekly Climatology"
+    }
+]

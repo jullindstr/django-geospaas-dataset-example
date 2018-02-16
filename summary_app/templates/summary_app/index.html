@@ -1,0 +1,22 @@
+{% load summary_extras %}
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset = 'utf-8'>
+	<title> List of datasets </title>
+  </head>
+  <body>
+    <p>There are <b> {{ datasets|length}} datasets </b> in the database.</p>
+    <h4> List of datasets: </h4>
+	 {% if datasets %}
+           {% for ds in datasets %}
+	
+               <li> <a href="{%url 'summary_app:dataset_table' ds.id%}">{{ds}} </a></li>
+            
+           {% endfor %}
+	 {%else%}
+	 <p> There are no datasets available in the database.</p>
+	 {%endif%}
+	</body>
+</html>

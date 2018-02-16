@@ -1,0 +1,47 @@
+[
+    {
+        "Revision": "2013-03-19 10:35:29"
+    }, 
+    {
+        "Horizontal_Resolution_Range": "1 km - < 10 km or approximately .01 degree - < .09 degree"
+    }, 
+    {
+        "Horizontal_Resolution_Range": "1 meter - < 30 meters"
+    }, 
+    {
+        "Horizontal_Resolution_Range": "10 km - < 50 km or approximately .09 degree - < .5 degree"
+    }, 
+    {
+        "Horizontal_Resolution_Range": "100 km - < 250 km or approximately 1 degree - < 2.5 degrees"
+    }, 
+    {
+        "Horizontal_Resolution_Range": "100 meters - < 250 meters"
+    }, 
+    {
+        "Horizontal_Resolution_Range": "250 km - <  500 km  or approximately  2.5 degrees - < 5.0 degrees"
+    }, 
+    {
+        "Horizontal_Resolution_Range": "250 meters - < 500 meters"
+    }, 
+    {
+        "Horizontal_Resolution_Range": "30 meters - < 100 meters"
+    }, 
+    {
+        "Horizontal_Resolution_Range": "50 km  - < 100 km or approximately .5 degree - < 1 degree"
+    }, 
+    {
+        "Horizontal_Resolution_Range": "500 km - < 1000 km or approximately 5 degrees - < 10 degrees"
+    }, 
+    {
+        "Horizontal_Resolution_Range": "500 meters - < 1 km"
+    }, 
+    {
+        "Horizontal_Resolution_Range": "< 1 meter"
+    }, 
+    {
+        "Horizontal_Resolution_Range": "> 1000 km or > 10 degrees"
+    }, 
+    {
+        "Horizontal_Resolution_Range": "Point Resolution"
+    }
+]

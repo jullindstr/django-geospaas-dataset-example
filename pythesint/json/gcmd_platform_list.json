@@ -1,0 +1,5171 @@
+[
+    {
+        "Revision": "2018-02-02 12:15:06"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "A340-600", 
+        "Long_Name": "Airbus A340-600"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "AC-500S", 
+        "Long_Name": "Rockwell Aero Commander AC-500S"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "AC-680E", 
+        "Long_Name": "Rockwell Aero Commander AC-680E"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "AEROSONDE", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "AIRCRAFT", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "ALTUS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "AS350-B2", 
+        "Long_Name": "Helicopter AS350-B2"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "AS350-B3", 
+        "Long_Name": "Helicopter AS350-B3"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "AS355-F2", 
+        "Long_Name": "Helicopter AS355-F2"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "B-200", 
+        "Long_Name": "Beechcraft King Air B-200"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "BE-200", 
+        "Long_Name": "Beechcraft King Air BE-200"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "BT-67", 
+        "Long_Name": "Basler BT-67"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "C-130", 
+        "Long_Name": "Lockheed C-130 Hercules"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "C-131A", 
+        "Long_Name": "Convair C-131 Samaritan"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "C-185", 
+        "Long_Name": "Cessna 185"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "C-23 Sherpa", 
+        "Long_Name": "Short Brothers C-23 Sherpa"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "CESSNA 172 SKYHAWK", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "CESSNA 188", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "CESSNA 206", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "CESSNA 320", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "CESSNA CITATION II", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "CESSNA SINGLE-ENGINE AIRCRAFT", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "CONVAIR CV-580", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "CONVAIR-990", 
+        "Long_Name": "CONVAIR-990 CORONADO"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "CORSAIR 131A", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "Cessna Pelican", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "DC-6", 
+        "Long_Name": "Douglas DC-6"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "DC-8", 
+        "Long_Name": "Douglas DC-8"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "DHC-3", 
+        "Long_Name": "DeHavilland DHC-3 Otter"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "DHC-6", 
+        "Long_Name": "DeHavilland Twin Otter"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "FOKKER F27", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "G-1 AIRCRAFT", 
+        "Long_Name": "G-1 Aircraft"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "G-III", 
+        "Long_Name": "Gulfstream III"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "G-II", 
+        "Long_Name": "GULFSTREAM II"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "G-IV", 
+        "Long_Name": "GULFSTREAM IV"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "G-I", 
+        "Long_Name": "GULFSTREAM I"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "G-V", 
+        "Long_Name": "Gulfstream V"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "GLOBAL HAWK UAV", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "GULFSTREAM 1000 (695A)", 
+        "Long_Name": "Gulfstream Jet Prop Commander 1000 (695a)"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "HC-130", 
+        "Long_Name": "HC-130"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "HELICOPTER", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "HU-25A", 
+        "Long_Name": "Dassault HU-25A Guardian"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "HU-25C", 
+        "Long_Name": "Dassault HU-25C Guardian"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "IKHANA", 
+        "Long_Name": "Ikhana Unmanned Science and Research Aircraft System"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "KINGAIR", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "King Air", 
+        "Long_Name": "Beechcraft King Air"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "LA-27", 
+        "Long_Name": "Lake Seawolf LA-27"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "LEARJET", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "NASA DC-8", 
+        "Long_Name": "NASA Douglas DC-8"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "NASA ELECTRA", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "NASA ER-2", 
+        "Long_Name": "NASA Earth Resources-2"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "NASA GLOBAL HAWK 872 AIRCRAFT", 
+        "Long_Name": "NASA unmanned Global Hawk aircraft number 872"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "NASA P-3", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "NASA S-3B VIKING", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "NASA WB-57F", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "NCAR ELECTRA", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "NP-3C Orion", 
+        "Long_Name": "Naval Research Lab P-3C Orion"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "NSF/NCAR C-130", 
+        "Long_Name": "NSF/NCAR Hercules C130 Aircraft"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "P-3A ORION", 
+        "Long_Name": "Lockheed P-3A Orion"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "P-3B", 
+        "Long_Name": "Lockheed P-3B Orion"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "PA-12", 
+        "Long_Name": "Piper PA-12 Super Cruiser"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "PIPER AZTEC", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "PIPER NAVAJO CHIEFTAIN", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "RQ-4", 
+        "Long_Name": "Northrop Grumman RQ-4 Global Hawk"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "SKYVAN", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "T-39", 
+        "Long_Name": "Rockwell Sabreliner T-39"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "UAV", 
+        "Long_Name": "Unmanned Aerial Vehicle"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "UC-12B", 
+        "Long_Name": "NASA Langley Beechcraft UC-12B Huron"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "UND CITATION II", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "UWKA", 
+        "Long_Name": "University of Wyoming King Air"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "WC-130J", 
+        "Long_Name": "Lockheed-Martin WC-130J Hercules"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "WP-3D ORION", 
+        "Long_Name": "Lockheed WP-3D Orion"
+    }, 
+    {
+        "Category": "Aircraft", 
+        "Series_Entity": "", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Balloons/Rockets", 
+        "Series_Entity": "", 
+        "Short_Name": "BALLOONS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Balloons/Rockets", 
+        "Series_Entity": "", 
+        "Short_Name": "DROPWINDSONDES", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Balloons/Rockets", 
+        "Series_Entity": "", 
+        "Short_Name": "EOLE", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Balloons/Rockets", 
+        "Series_Entity": "", 
+        "Short_Name": "MAXIS", 
+        "Long_Name": "MeV Auroral X-ray Imaging and Spectroscopy"
+    }, 
+    {
+        "Category": "Balloons/Rockets", 
+        "Series_Entity": "", 
+        "Short_Name": "PIBAL", 
+        "Long_Name": "Pilot Balloons"
+    }, 
+    {
+        "Category": "Balloons/Rockets", 
+        "Series_Entity": "", 
+        "Short_Name": "RADIOSONDES", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Balloons/Rockets", 
+        "Series_Entity": "", 
+        "Short_Name": "ROCKETS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Balloons/Rockets", 
+        "Series_Entity": "", 
+        "Short_Name": "SOUNDING ROCKETS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Balloons/Rockets", 
+        "Series_Entity": "", 
+        "Short_Name": "Titan 34D", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Balloons/Rockets", 
+        "Series_Entity": "", 
+        "Short_Name": "Titan IIID", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Balloons/Rockets", 
+        "Series_Entity": "", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "AD (Atmospheric Dynamics)", 
+        "Short_Name": "AD-A", 
+        "Long_Name": "Atmosphere Dynamics A (Explorer 19)"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "AD (Atmospheric Dynamics)", 
+        "Short_Name": "AD-B", 
+        "Long_Name": "Atmosphere Dynamics B (Explorer 24)"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "AD (Atmospheric Dynamics)", 
+        "Short_Name": "AD-C", 
+        "Long_Name": "Atmosphere Dynamics C (Explorer 39)"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "AD (Atmospheric Dynamics)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ADEOS (Advanced Earth Observing Satellite)", 
+        "Short_Name": "ADEOS-II", 
+        "Long_Name": "Advanced Earth Observing Satellite-II"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ADEOS (Advanced Earth Observing Satellite)", 
+        "Short_Name": "ADEOS-I", 
+        "Long_Name": "Advanced Earth Observing Satellite-I"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ADEOS (Advanced Earth Observing Satellite)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "AE (Atmosphere Explorer)", 
+        "Short_Name": "AE-A", 
+        "Long_Name": "Atmosphere Explorer A (Explorer 17)"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "AE (Atmosphere Explorer)", 
+        "Short_Name": "AE-B", 
+        "Long_Name": "Atmosphere Explorer B (Explorer 32)"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "AE (Atmosphere Explorer)", 
+        "Short_Name": "AE-C", 
+        "Long_Name": "Atmosphere Explorer C (Explorer 51)"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "AE (Atmosphere Explorer)", 
+        "Short_Name": "AE-D", 
+        "Long_Name": "Atmosphere Explorer D (Explorer 54)"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "AE (Atmosphere Explorer)", 
+        "Short_Name": "AE-E", 
+        "Long_Name": "Atmosphere Explorer E (Explorer 55)"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "AE (Atmosphere Explorer)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "AEM (Applications Explorer Mission)", 
+        "Short_Name": "AEM-1", 
+        "Long_Name": "Applications Explorer Mission-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "AEM (Applications Explorer Mission)", 
+        "Short_Name": "AEM-2", 
+        "Long_Name": "Applications Explorer Mission-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "AEM (Applications Explorer Mission)", 
+        "Short_Name": "AEM-3", 
+        "Long_Name": "Applications Explorer Mission-3"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "AEM (Applications Explorer Mission)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "AEROS", 
+        "Short_Name": "AEROS-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "AEROS", 
+        "Short_Name": "AEROS-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "AEROS", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ALOUETTE", 
+        "Short_Name": "ALOUETTE-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ALOUETTE", 
+        "Short_Name": "ALOUETTE-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ALOUETTE", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ATS (Advanced Technology Satellite)", 
+        "Short_Name": "ATS-1", 
+        "Long_Name": "Advanced Technology Satellite-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ATS (Advanced Technology Satellite)", 
+        "Short_Name": "ATS-2", 
+        "Long_Name": "Advanced Technology Satellite-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ATS (Advanced Technology Satellite)", 
+        "Short_Name": "ATS-3", 
+        "Long_Name": "Advanced Technology Satellite-3"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ATS (Advanced Technology Satellite)", 
+        "Short_Name": "ATS-4", 
+        "Long_Name": "Advanced Technology Satellite-4"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ATS (Advanced Technology Satellite)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "BE (Beacon Explorer)", 
+        "Short_Name": "BE-B", 
+        "Long_Name": "Beacon Explorer-B"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "BE (Beacon Explorer)", 
+        "Short_Name": "BE-C", 
+        "Long_Name": "Beacon Explorer-C"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "BE (Beacon Explorer)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "CARTOSAT", 
+        "Short_Name": "CARTOSAT-2A", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "CARTOSAT", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "CBERS (China-Brazil Earth Resources Satellite)", 
+        "Short_Name": "CBERS-1", 
+        "Long_Name": "China-Brazil Earth Resource Satellite 1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "CBERS (China-Brazil Earth Resources Satellite)", 
+        "Short_Name": "CBERS-2B", 
+        "Long_Name": "China-Brazil Earth Resource Satellite 2B"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "CBERS (China-Brazil Earth Resources Satellite)", 
+        "Short_Name": "CBERS-2", 
+        "Long_Name": "China-Brazil Earth Resource Satellite 2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "CBERS (China-Brazil Earth Resources Satellite)", 
+        "Short_Name": "CBERS-3", 
+        "Long_Name": "China-Brazil Earth Resource Satellite 3"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "CBERS (China-Brazil Earth Resources Satellite)", 
+        "Short_Name": "CBERS-4", 
+        "Long_Name": "China-Brazil Earth Resource Satellite 4"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "CBERS (China-Brazil Earth Resources Satellite)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "COSMOS", 
+        "Short_Name": "COSMOS 1500", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "COSMOS", 
+        "Short_Name": "COSMOS 49", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "COSMOS", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DE (Dynamics Explorer)", 
+        "Short_Name": "DE-1", 
+        "Long_Name": "Dynamics Explorer-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DE (Dynamics Explorer)", 
+        "Short_Name": "DE-2", 
+        "Long_Name": "Dynamics Explorer-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DE (Dynamics Explorer)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DIADEM", 
+        "Short_Name": "DIADEM-1C", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DIADEM", 
+        "Short_Name": "DIADEM-1D", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DIADEM", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMC-1G (Disaster Monitoring Constellation- 1st Generation)", 
+        "Short_Name": "ALSAT-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMC-1G (Disaster Monitoring Constellation- 1st Generation)", 
+        "Short_Name": "BEIJING-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMC-1G (Disaster Monitoring Constellation- 1st Generation)", 
+        "Short_Name": "BILSAT-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMC-1G (Disaster Monitoring Constellation- 1st Generation)", 
+        "Short_Name": "NIGERIASAT-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMC-1G (Disaster Monitoring Constellation- 1st Generation)", 
+        "Short_Name": "UK-DMC", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMC-1G (Disaster Monitoring Constellation- 1st Generation)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5B/F3", 
+        "Long_Name": "Defense Meteorological Satellite Program-F3"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-1/F1", 
+        "Long_Name": "Defense Meteorological Satellite Program-F1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-1/F2", 
+        "Long_Name": "Defense Meteorological Satellite Program-F2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-1/F3", 
+        "Long_Name": "Defense Meteorological Satellite Program-F3"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-1/F4", 
+        "Long_Name": "Defense Meteorological Satellite Program-F4"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-1/F5", 
+        "Long_Name": "Defense Meteorological Satellite Program-F5"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-2/F10", 
+        "Long_Name": "Defense Meteorological Satellite Program-F10"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-2/F11", 
+        "Long_Name": "Defense Meteorological Satellite Program-F11"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-2/F12", 
+        "Long_Name": "Defense Meteorological Satellite Program-F12"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-2/F13", 
+        "Long_Name": "Defense Meteorological Satellite Program-F13"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-2/F14", 
+        "Long_Name": "Defense Meteorological Satellite Program-F14"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-2/F15", 
+        "Long_Name": "Defense Meteorological Satellite Program-F15"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-2/F6", 
+        "Long_Name": "Defense Meteorological Satellite Program-F6"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-2/F7", 
+        "Long_Name": "Defense Meteorological Satellite Program-F7"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-2/F8", 
+        "Long_Name": "Defense Meteorological Satellite Program-F8"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-2/F9", 
+        "Long_Name": "Defense Meteorological Satellite Program-F9"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-3/F15", 
+        "Long_Name": "Defense Meteorological Satellite Program-F15"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-3/F16", 
+        "Long_Name": "Defense Meteorological Satellite Program-F16"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-3/F17", 
+        "Long_Name": "Defense Meteorological Satellite Program-F17"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-3/F18", 
+        "Long_Name": "Defense Meteorological Satellite Program-F18"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP 5D-3/F19", 
+        "Long_Name": "Defense Meteorological Satellite Program-F19"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "DMSP", 
+        "Long_Name": "Defense Meteorological Satellite Program"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "DMSP (Defense Meteorological Satellite Program)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ECHO", 
+        "Short_Name": "ECHO-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ECHO", 
+        "Short_Name": "ECHO-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ECHO", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ERS Earth Resource Satellite", 
+        "Short_Name": "ERS-1", 
+        "Long_Name": "European Remote Sensing Satellite-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ERS Earth Resource Satellite", 
+        "Short_Name": "ERS-2", 
+        "Long_Name": "European Remote Sensing Satellite-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ERS Earth Resource Satellite", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ETALON", 
+        "Short_Name": "ETALON-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ETALON", 
+        "Short_Name": "ETALON-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ETALON", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "EXPLORER", 
+        "Short_Name": "EXPLORER-9", 
+        "Long_Name": "Air Density Sphere"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "EXPLORER", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Earth Explorers", 
+        "Short_Name": "CRYOSAT-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Earth Explorers", 
+        "Short_Name": "GOCE", 
+        "Long_Name": "Gravity Field and Steady-State Ocean Circulation Explorer"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Earth Explorers", 
+        "Short_Name": "SMOS", 
+        "Long_Name": "Soil Moisture and Ocean Salinity (Earth Explorer Opportunity Mission)"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Earth Explorers", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "FY (Feng-Yun)", 
+        "Short_Name": "FY-1", 
+        "Long_Name": "China's Meteorological Satellite-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "FY (Feng-Yun)", 
+        "Short_Name": "FY-2", 
+        "Long_Name": "China's  Meteorological Satellite-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "FY (Feng-Yun)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "FengYun-2", 
+        "Short_Name": "FY-2D", 
+        "Long_Name": "FengYun-2D"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "FengYun-2", 
+        "Short_Name": "FY-2E", 
+        "Long_Name": "FengYun-2E"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "FengYun-2", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GEOS (Geodetic Earth Orbiting Satellite)", 
+        "Short_Name": "GEOS-1", 
+        "Long_Name": "Geodetic Earth Orbiting Satellite-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GEOS (Geodetic Earth Orbiting Satellite)", 
+        "Short_Name": "GEOS-2", 
+        "Long_Name": "Geodetic Earth Orbiting Satellite-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GEOS (Geodetic Earth Orbiting Satellite)", 
+        "Short_Name": "GEOS-3", 
+        "Long_Name": "Geodetic Earth Orbiting Satellite-3"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GEOS (Geodetic Earth Orbiting Satellite)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GEOSAT", 
+        "Short_Name": "GEOSAT", 
+        "Long_Name": "Geodetic Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GEOSAT", 
+        "Short_Name": "GFO-1", 
+        "Long_Name": "GEOSAT FOLLOW-ON-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GEOSAT", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GMS (Japan Geostationary Meteorological Satellite)", 
+        "Short_Name": "GMS-1", 
+        "Long_Name": "Geostationary Meteorological Satellite-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GMS (Japan Geostationary Meteorological Satellite)", 
+        "Short_Name": "GMS-2", 
+        "Long_Name": "Geostationary Meteorological Satellite-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GMS (Japan Geostationary Meteorological Satellite)", 
+        "Short_Name": "GMS-3", 
+        "Long_Name": "Geostationary Meteorological Satellite-3"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GMS (Japan Geostationary Meteorological Satellite)", 
+        "Short_Name": "GMS-4", 
+        "Long_Name": "Geostationary Meteorological Satellite-4"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GMS (Japan Geostationary Meteorological Satellite)", 
+        "Short_Name": "GMS-5", 
+        "Long_Name": "Geostationary Meteorological Satellite-5"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GMS (Japan Geostationary Meteorological Satellite)", 
+        "Short_Name": "GMS", 
+        "Long_Name": "Japan Geostationary Meteorological Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GMS (Japan Geostationary Meteorological Satellite)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "GOES-10", 
+        "Long_Name": "Geostationary Operational Environmental Satellite 10"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "GOES-11", 
+        "Long_Name": "Geostationary Operational Environmental Satellite 11"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "GOES-12", 
+        "Long_Name": "Geostationary Operational Environmental Satellite 12"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "GOES-13", 
+        "Long_Name": "Geostationary Operational Environmental Satellite 13"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "GOES-14", 
+        "Long_Name": "Geostationary Operational Environmental Satellite 14"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "GOES-15", 
+        "Long_Name": "Geostationary Operational Environmental Satellite 15"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "GOES-16", 
+        "Long_Name": "Geostationary Operational Environmental Satellite 16"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "GOES-1", 
+        "Long_Name": "Geostationary Operational Environmental Satellite 1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "GOES-2", 
+        "Long_Name": "Geostationary Operational Environmental Satellite 2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "GOES-3", 
+        "Long_Name": "Geostationary Operational Environmental Satellite 3"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "GOES-4", 
+        "Long_Name": "Geostationary Operational Environmental Satellite 4"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "GOES-5", 
+        "Long_Name": "Geostationary Operational Environmental Satellite 5"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "GOES-6", 
+        "Long_Name": "Geostationary Operational Environmental Satellite 6"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "GOES-7", 
+        "Long_Name": "Geostationary Operational Environmental Satellite 7"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "GOES-8", 
+        "Long_Name": "Geostationary Operational Environmental Satellite 8"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "GOES-9", 
+        "Long_Name": "Geostationary Operational Environmental Satellite 9"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "GOES", 
+        "Long_Name": "NOAA Geostationary Operational Environmental Satellites"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "GOES (Geostationary Operational Environmental Satellite)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Himawari", 
+        "Short_Name": "Himawari-8", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Himawari", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "IMS", 
+        "Short_Name": "IMS-1", 
+        "Long_Name": "Indian Mini Satellite-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "IMS", 
+        "Short_Name": "IMS-2", 
+        "Long_Name": "Indian Mini Satellite-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "IMS", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "INSAT (Indian National Satellite)", 
+        "Short_Name": "INSAT-1A", 
+        "Long_Name": "Indian National Satellite-1A"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "INSAT (Indian National Satellite)", 
+        "Short_Name": "INSAT-1B", 
+        "Long_Name": "Indian National Satellite-1B"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "INSAT (Indian National Satellite)", 
+        "Short_Name": "INSAT-3D", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "INSAT (Indian National Satellite)", 
+        "Short_Name": "INSAT", 
+        "Long_Name": "Indian National Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "INSAT (Indian National Satellite)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "IRS (Indian Remote Sensing Satellite)", 
+        "Short_Name": "IRS-1A", 
+        "Long_Name": "Indian Remote Sensing Satellite-1A"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "IRS (Indian Remote Sensing Satellite)", 
+        "Short_Name": "IRS-1B", 
+        "Long_Name": "Indian Remote Sensing Satellite-1B"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "IRS (Indian Remote Sensing Satellite)", 
+        "Short_Name": "IRS-1C", 
+        "Long_Name": "Indian Remote Sensing Satellite-1C"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "IRS (Indian Remote Sensing Satellite)", 
+        "Short_Name": "IRS-1D", 
+        "Long_Name": "Indian Remote Sensing Satellite-1D"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "IRS (Indian Remote Sensing Satellite)", 
+        "Short_Name": "IRS-O2", 
+        "Long_Name": "Oceansat-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "IRS (Indian Remote Sensing Satellite)", 
+        "Short_Name": "IRS-P2", 
+        "Long_Name": "Indian Remote Sensing Satellite-P2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "IRS (Indian Remote Sensing Satellite)", 
+        "Short_Name": "IRS-P3", 
+        "Long_Name": "Indian ISRO IRS-P3 Spacecraft"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "IRS (Indian Remote Sensing Satellite)", 
+        "Short_Name": "IRS-P4", 
+        "Long_Name": "Indian Remote Sensing Satellite-P4 (OCEANSAT-1)"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "IRS (Indian Remote Sensing Satellite)", 
+        "Short_Name": "IRS-P5", 
+        "Long_Name": "Indian Remote Sensing Satellite-P5 (CARTOSAT-1)"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "IRS (Indian Remote Sensing Satellite)", 
+        "Short_Name": "IRS-P6", 
+        "Long_Name": "Indian Remote Sensing Satellite-P6"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "IRS (Indian Remote Sensing Satellite)", 
+        "Short_Name": "IRS-RS2", 
+        "Long_Name": "Indian Remote Sensing Satellite-RS2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "IRS (Indian Remote Sensing Satellite)", 
+        "Short_Name": "K1", 
+        "Long_Name": "Kalpana-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "IRS (Indian Remote Sensing Satellite)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ISIS (International Satellite for Ionospheric S", 
+        "Short_Name": "ISIS-1", 
+        "Long_Name": "International Satellite for Ionospheric Studies-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ISIS (International Satellite for Ionospheric S", 
+        "Short_Name": "ISIS-2", 
+        "Long_Name": "International Satellite for Ionospheric Studies-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "ISIS (International Satellite for Ionospheric S", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "JERS", 
+        "Short_Name": "JERS-1", 
+        "Long_Name": "Japanese Earth Resources Satellite-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "JERS", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Joint Polar Satellite System (JPSS)", 
+        "Short_Name": "JPSS-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Joint Polar Satellite System (JPSS)", 
+        "Short_Name": "JPSS-3", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Joint Polar Satellite System (JPSS)", 
+        "Short_Name": "JPSS-4", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Joint Polar Satellite System (JPSS)", 
+        "Short_Name": "NOAA-20", 
+        "Long_Name": "Joint Polar Satellite System - 1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Joint Polar Satellite System (JPSS)", 
+        "Short_Name": "SUOMI-NPP", 
+        "Long_Name": "Suomi National Polar-orbiting Partnership"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Joint Polar Satellite System (JPSS)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "LAGEOS (Laser Geodetic Satellite)", 
+        "Short_Name": "LAGEOS-1", 
+        "Long_Name": "Laser Geodetic Satellite-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "LAGEOS (Laser Geodetic Satellite)", 
+        "Short_Name": "LAGEOS-2", 
+        "Long_Name": "Laser Geodetic Satellite-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "LAGEOS (Laser Geodetic Satellite)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "LANDSAT", 
+        "Short_Name": "LANDSAT-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "LANDSAT", 
+        "Short_Name": "LANDSAT-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "LANDSAT", 
+        "Short_Name": "LANDSAT-3", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "LANDSAT", 
+        "Short_Name": "LANDSAT-4", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "LANDSAT", 
+        "Short_Name": "LANDSAT-5", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "LANDSAT", 
+        "Short_Name": "LANDSAT-7", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "LANDSAT", 
+        "Short_Name": "LANDSAT-8", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "LANDSAT", 
+        "Short_Name": "LANDSAT", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "LANDSAT", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "METEOSAT", 
+        "Short_Name": "METEOSAT-10", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "METEOSAT", 
+        "Short_Name": "METEOSAT-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "METEOSAT", 
+        "Short_Name": "METEOSAT-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "METEOSAT", 
+        "Short_Name": "METEOSAT-3", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "METEOSAT", 
+        "Short_Name": "METEOSAT-4", 
+        "Long_Name": "Meteosat Operational Programme 1 (MOP-1)"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "METEOSAT", 
+        "Short_Name": "METEOSAT-5", 
+        "Long_Name": "Meteosat Operational Programme 2 (MOP-2)"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "METEOSAT", 
+        "Short_Name": "METEOSAT-6", 
+        "Long_Name": "Meteosat Operational Programme 3 (MOP-3)"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "METEOSAT", 
+        "Short_Name": "METEOSAT-7", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "METEOSAT", 
+        "Short_Name": "METEOSAT-8", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "METEOSAT", 
+        "Short_Name": "METEOSAT-9", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "METEOSAT", 
+        "Short_Name": "METEOSAT", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "METEOSAT", 
+        "Short_Name": "MSG", 
+        "Long_Name": "Meteosat Second Generation"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "METEOSAT", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "METOP", 
+        "Short_Name": "METOP-A", 
+        "Long_Name": "Meteorological Operational Satellite - A"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "METOP", 
+        "Short_Name": "METOP-B", 
+        "Long_Name": "Meteorological Operational Satellite - B"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "METOP", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "MOS (Japan Marine Observation Satellite)", 
+        "Short_Name": "MOS-1B", 
+        "Long_Name": "Japanese Marine Observation Satellite-1B"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "MOS (Japan Marine Observation Satellite)", 
+        "Short_Name": "MOS-1", 
+        "Long_Name": "Japanese Marine Observation Satellite 1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "MOS (Japan Marine Observation Satellite)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Megha-Tropiques", 
+        "Short_Name": "MEGHA-TROPIQUES", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Megha-Tropiques", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Meteor", 
+        "Short_Name": "Meteor 2-21", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Meteor", 
+        "Short_Name": "Meteor-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Meteor", 
+        "Short_Name": "Meteor-3M", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Meteor", 
+        "Short_Name": "Meteor-3", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Meteor", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Decadal Survey", 
+        "Short_Name": "3D-WINDS", 
+        "Long_Name": "Three-Dimensional Tropospheric Winds from Space-based Lidar"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Decadal Survey", 
+        "Short_Name": "ACE (DECADAL SURVEY)", 
+        "Long_Name": "Aerosol - Cloud - Ecosystems"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Decadal Survey", 
+        "Short_Name": "ASCENDS", 
+        "Long_Name": "Active Sensing of CO2 Emissions over Nights, Days, and Seasons"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Decadal Survey", 
+        "Short_Name": "CLARREO", 
+        "Long_Name": "Climate Absolute Radiance and Refractivity Observatory"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Decadal Survey", 
+        "Short_Name": "DESDYNI", 
+        "Long_Name": "Deformation, Ecosystem Structure and Dynamics of Ice"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Decadal Survey", 
+        "Short_Name": "GACM", 
+        "Long_Name": "Global Atmospheric Composition Mission"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Decadal Survey", 
+        "Short_Name": "GEO-CAPE", 
+        "Long_Name": "Geostationary Coastal and Air Pollution Events"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Decadal Survey", 
+        "Short_Name": "GRACE II", 
+        "Long_Name": "Gravity Recovery and Climate Experiment II"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Decadal Survey", 
+        "Short_Name": "HYSPIRI", 
+        "Long_Name": "Hyperspectral Infrared Imager"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Decadal Survey", 
+        "Short_Name": "ICESAT-2", 
+        "Long_Name": "Ice, Cloud, and land Elevation Satellite-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Decadal Survey", 
+        "Short_Name": "LIST", 
+        "Long_Name": "Lidar Surface Topography"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Decadal Survey", 
+        "Short_Name": "PATH", 
+        "Long_Name": "Precision and All-Weather Temperature and Humidity"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Decadal Survey", 
+        "Short_Name": "SCLP", 
+        "Long_Name": "Snow and Cold Land Processes"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Decadal Survey", 
+        "Short_Name": "SMAP", 
+        "Long_Name": "Soil Moisture Active and Passive Observatory"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Decadal Survey", 
+        "Short_Name": "SWOT", 
+        "Long_Name": "Surface Water Ocean Topography"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Decadal Survey", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Earth System Science Pathfinder", 
+        "Short_Name": "AQUARIUS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Earth System Science Pathfinder", 
+        "Short_Name": "CALIPSO", 
+        "Long_Name": "Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Earth System Science Pathfinder", 
+        "Short_Name": "CLOUDSAT", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Earth System Science Pathfinder", 
+        "Short_Name": "GRACE", 
+        "Long_Name": "Gravity Recovery and Climate Experiment"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Earth System Science Pathfinder", 
+        "Short_Name": "OCO-2", 
+        "Long_Name": "Orbiting Carbon Observatory-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Earth System Science Pathfinder", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Small Explorer (SMEX)", 
+        "Short_Name": "AIM", 
+        "Long_Name": "Aeronomy of Ice in the Mesosphere"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NASA Small Explorer (SMEX)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NIMBUS", 
+        "Short_Name": "Nimbus-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NIMBUS", 
+        "Short_Name": "Nimbus-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NIMBUS", 
+        "Short_Name": "Nimbus-3", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NIMBUS", 
+        "Short_Name": "Nimbus-4", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NIMBUS", 
+        "Short_Name": "Nimbus-5", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NIMBUS", 
+        "Short_Name": "Nimbus-6", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NIMBUS", 
+        "Short_Name": "Nimbus-7", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NIMBUS", 
+        "Short_Name": "Nimbus", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NIMBUS", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA POES", 
+        "Long_Name": "NOAA Polar Orbiting Environmental Satellites"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-10", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-10"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-11", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-11"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-12", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-12"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-13", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-13"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-14", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-14"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-15", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-15"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-16", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-16"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-17", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-17"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-18", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-18"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-19", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-19"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-1", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-2", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-3", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-3"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-4", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-4"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-5", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-5"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-6", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-6"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-7", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-7"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-8", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-8"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "NOAA-9", 
+        "Long_Name": "National Oceanic & Atmospheric Administration-9"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "NOAA POES (Polar Orbiting Environmental Satellites)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "OGO (Orbiting Geophysical Observatory)", 
+        "Short_Name": "OGO-1", 
+        "Long_Name": "Orbiting Geophysical Observatory-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "OGO (Orbiting Geophysical Observatory)", 
+        "Short_Name": "OGO-2", 
+        "Long_Name": "Orbiting Geophysical Observatory-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "OGO (Orbiting Geophysical Observatory)", 
+        "Short_Name": "OGO-3", 
+        "Long_Name": "Orbiting Geophysical Observatory-3"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "OGO (Orbiting Geophysical Observatory)", 
+        "Short_Name": "OGO-4", 
+        "Long_Name": "Orbiting Geophysical Observatory-4"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "OGO (Orbiting Geophysical Observatory)", 
+        "Short_Name": "OGO-5", 
+        "Long_Name": "Orbiting Geophysical Observatory-5"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "OGO (Orbiting Geophysical Observatory)", 
+        "Short_Name": "OGO-6", 
+        "Long_Name": "Orbiting Geophysical Observatory-6"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "OGO (Orbiting Geophysical Observatory)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "RADARSAT", 
+        "Short_Name": "RADARSAT-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "RADARSAT", 
+        "Short_Name": "RADARSAT-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "RADARSAT", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "SAC", 
+        "Short_Name": "SAC-A", 
+        "Long_Name": "Satelite de Aplicaciones Cientifico - A"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "SAC", 
+        "Short_Name": "SAC-C", 
+        "Long_Name": "Satelite de Aplicaciones Cientifico - C"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "SAC", 
+        "Short_Name": "SAC-D", 
+        "Long_Name": "Sat\u00c3\u00a9lite de Aplicaciones Cient\u00c3\u00adfico - D"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "SAC", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "SMS (Synchronous Meteorological Satellites)", 
+        "Short_Name": "SMS-1", 
+        "Long_Name": "Synchronous Meteorological Satellite 1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "SMS (Synchronous Meteorological Satellites)", 
+        "Short_Name": "SMS-2", 
+        "Long_Name": "Synchronous Meteorological Satellite 2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "SMS (Synchronous Meteorological Satellites)", 
+        "Short_Name": "SMS", 
+        "Long_Name": "Synchronous Meteorological Satellites"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "SMS (Synchronous Meteorological Satellites)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "SPOT", 
+        "Short_Name": "SPOT-1", 
+        "Long_Name": "Systeme Probatoire Pour l'Observation de la Terre-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "SPOT", 
+        "Short_Name": "SPOT-2", 
+        "Long_Name": "Systeme Probatoire Pour l'Observation de la Terre-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "SPOT", 
+        "Short_Name": "SPOT-3", 
+        "Long_Name": "Systeme Probatoire Pour l'Observation de la Terre-3"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "SPOT", 
+        "Short_Name": "SPOT-4", 
+        "Long_Name": "Systeme Probatoire Pour l'Observation de la Terre-4"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "SPOT", 
+        "Short_Name": "SPOT-5", 
+        "Long_Name": "Systeme Probatoire Pour l'Observation de la Terre-5"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "SPOT", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Sentinel GMES", 
+        "Short_Name": "SENTINEL-1A", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Sentinel GMES", 
+        "Short_Name": "SENTINEL-1B", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Sentinel GMES", 
+        "Short_Name": "SENTINEL-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Sentinel GMES", 
+        "Short_Name": "SENTINEL-3", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "Sentinel GMES", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "TIROS", 
+        "Short_Name": "TIROS-7", 
+        "Long_Name": "Television Infrared Operational"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "TIROS", 
+        "Short_Name": "TIROS-M", 
+        "Long_Name": "Television Infrared Observation Satellite-M"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "TIROS", 
+        "Short_Name": "TIROS-N", 
+        "Long_Name": "Television Infrared Observation Satellite-N"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "TIROS", 
+        "Short_Name": "TIROS", 
+        "Long_Name": "Television Infrared Observation Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "TIROS", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "AJISAI", 
+        "Long_Name": "Experimental Geodetic Satellite (Japanese EGS)"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "ALOS-2", 
+        "Long_Name": "Advanced Land Observing Satellite-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "ALOS", 
+        "Long_Name": "Advanced Land Observing Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "AQUARIUS_SAC-D", 
+        "Long_Name": "Aquarius SAC-D"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "AQUA", 
+        "Long_Name": "Earth Observing System, AQUA"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "ARGON", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "AURA", 
+        "Long_Name": "Earth Observing System, Aura"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "CHAMP", 
+        "Long_Name": "Challenging Minisatellite Payload"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "CORIOLIS", 
+        "Long_Name": "Coriolis"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "CORONA", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "COSMO-SKYMED", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "CRRES", 
+        "Long_Name": "Combined Release and Radiation Effects Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "CRYOSAT", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "CYGNSS", 
+        "Long_Name": "Cyclone Global Navigation Satellite System"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "DASH-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "DEIMOS-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "ENVISAT", 
+        "Long_Name": "Environmental Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "EO-1", 
+        "Long_Name": "Earth Observing 1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "EP-TOMS", 
+        "Long_Name": "Earth Probe-TOMS"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "ERBS", 
+        "Long_Name": "Earth Radiation Budget Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "EROS-A1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "EROS-B1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "ESSA", 
+        "Long_Name": "Environmental Science Services Administration"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "EXOS-A", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "Elektro-L N1", 
+        "Long_Name": "Geostationary Operational Meteorological Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "FASTSAT-1", 
+        "Long_Name": "Fast, Affordable, Science and Technology SATellite, 1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "FORMOSAT-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "FY-3A", 
+        "Long_Name": "FengYun-3A"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "FY-3B", 
+        "Long_Name": "FengYun-3B"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "GCOM-W1", 
+        "Long_Name": "Global Change Observation Mission 1st-Water"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "GEOEYE-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "GEOSTATIONARY SATELLITES", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "GFZ-1", 
+        "Long_Name": "GeoForschungsZentrum-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "GLORY", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "GOMS", 
+        "Long_Name": "Geostationary Operational Meteorological Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "GOSAT", 
+        "Long_Name": "Greenhouse Gases Observing Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "GPM", 
+        "Long_Name": "Global Precipitation Measurement"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "HCMM", 
+        "Long_Name": "Heat Capacity Mapping Mission"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "HJ1A", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "HJ1B", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "ICESAT", 
+        "Long_Name": "Ice, Cloud and Land Elevation Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "IKONOS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "IMAGE", 
+        "Long_Name": "Imager for Magnetopause -to - Aurora Global Exploration"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "JASON-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "KOMPSAT-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "Kanopus-V", 
+        "Long_Name": "Environmental Satellite Kanopus-V"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "LANYARD", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "LAPAN-TUBSAT", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "MAGSAT", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "MIDAS 2", 
+        "Long_Name": "Missile Defense Alarm System 2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "MMS", 
+        "Long_Name": "Magnetospheric Multiscale"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "MONITOR-E", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "MSTI-2", 
+        "Long_Name": "Miniature Sensor Technology Integration-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "MT1", 
+        "Long_Name": "Megha-Tropiques"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "MTSAT-1R", 
+        "Long_Name": "Multi-functional Transport Satellite 1 Replacement"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "MTSAT-2", 
+        "Long_Name": "The Multi-functional Transport Satellite 2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "MTSAT", 
+        "Long_Name": "Multi-functional Transport Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "Meteor-M N1", 
+        "Long_Name": "Meteorological Satellite Meteor-M N1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "Meteor-M N2", 
+        "Long_Name": "Meteorological Satellite Meteor-M N2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "NCEP GTS", 
+        "Long_Name": "National Centers for Environmental Prediction Global Telecommunications Systems"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "NISAR", 
+        "Long_Name": "NASA-ISRO Synthetic Aperture Radar"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "NPOESS (National Polar-orbiting Operational Environmental Satellite System )", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "OCO", 
+        "Long_Name": "Orbiting Carbon Observatory"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "ODIN", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "OKEAN-O", 
+        "Long_Name": "Ukranian-Russian Ocean Remote Sensing System"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "OSTM/JASON-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "OrbView-1", 
+        "Long_Name": "OSC Microlab-1 Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "OrbView-2", 
+        "Long_Name": "Orbital Sciences Corporation OrbView-2 Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "PAGEOS 1", 
+        "Long_Name": "Passive Geodetic Earth Orbiting Satellite 1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "PARASOL", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "PLEIADES", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "PROBA-1", 
+        "Long_Name": "Project for On-Board Autonomy, PROBA-1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "PROBA-2", 
+        "Long_Name": "Project for On-Board Autonomy, PROBA-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "PROBA-3", 
+        "Long_Name": "Project for On-Board Autonomy, PROBA-3"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "Proba-V", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "QUICKBIRD-2", 
+        "Long_Name": "DigitalGlobe's QuickBird-2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "QUICKBIRD", 
+        "Long_Name": "DigitalGlobe's QuickBird"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "QUIKSCAT", 
+        "Long_Name": "QUIKSCAT"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "RAPIDEYE", 
+        "Long_Name": "RapidEye"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "RESURS-O1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "Resurs DK 1", 
+        "Long_Name": "Environmental Satellite Resurs-DK N1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "Resurs-P N1", 
+        "Long_Name": "Environmental Satellite Resurs-P N1"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "Resurs-P N2", 
+        "Long_Name": "Environmental Satellite Resurs-P N2"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "SAGE-III", 
+        "Long_Name": "Stratospheric Aerosol and Gas Experiment-III"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "SARAL", 
+        "Long_Name": "Satellite with ARgos and ALtiKa"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "SATELLITES", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "SCD", 
+        "Long_Name": "Satellites de Coleta de Dados"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "SCISAT-1/ACE", 
+        "Long_Name": "Atmospheric Chemistry Experiment"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "SEASAT 1", 
+        "Long_Name": "Ocean Dynamics Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "SES-14", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "SME", 
+        "Long_Name": "Solar Mesospheric Explorer"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "STARLETTE", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "STELLA", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "STPSat-3", 
+        "Long_Name": "U.S. Air Force Space Test Program Satellite 3"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "SUNSAT", 
+        "Long_Name": "Stellenbosch University Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "SWOT", 
+        "Long_Name": "Surface Water and Ocean Topography"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "TDX", 
+        "Long_Name": "TanDEM-X"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "TERRA", 
+        "Long_Name": "Earth Observing System, TERRA (AM-1)"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "THEOS", 
+        "Long_Name": "Thai Earth Observation System"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "TIMED", 
+        "Long_Name": "Thermosphere, Ionosphere, Mesosphere Energetics and Dynamics"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "TIPS", 
+        "Long_Name": "Tether Physics and Survivability"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "TIUNGSAT-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "TOPEX/POSEIDON", 
+        "Long_Name": "Ocean Topography Experiment"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "TOPSAT", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "TRMM", 
+        "Long_Name": "Tropical Rainfall Measuring Mission"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "TSINGHUA-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "TSX", 
+        "Long_Name": "TerraSAR-X"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "UARS", 
+        "Long_Name": "Upper Atmosphere Research Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "VANGUARD", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "WESTPAC", 
+        "Long_Name": "Western Pacific Laser Satellite"
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "WORLDVIEW-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "WORLDVIEW-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "WORLDVIEW-3", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "WORLDVIEW-4", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "ZEIA", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Earth Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "AIR MONITORING STATIONS/NETWORKS", 
+        "Short_Name": "BAPMON", 
+        "Long_Name": "Background Air Pollution Monitoring Stations"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "AIR MONITORING STATIONS/NETWORKS", 
+        "Short_Name": "ESRL STATIONS", 
+        "Long_Name": "NOAA Earth Science Research Laboratory Stations"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "AIR MONITORING STATIONS/NETWORKS", 
+        "Short_Name": "GMCC", 
+        "Long_Name": "NOAA Geophysical Monitoring for Climatic Change Stations"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "AIR MONITORING STATIONS/NETWORKS", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "GEOPHYSICAL STATIONS/NETWORKS", 
+        "Short_Name": "FDSN", 
+        "Long_Name": "Federation of Digital Seismographic Networks"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "GEOPHYSICAL STATIONS/NETWORKS", 
+        "Short_Name": "GEODYNAMIC STATIONS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "GEOPHYSICAL STATIONS/NETWORKS", 
+        "Short_Name": "GEOMAGNETIC STATIONS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "GEOPHYSICAL STATIONS/NETWORKS", 
+        "Short_Name": "GEOMET", 
+        "Long_Name": "USGS Desert Winds Geological/Meteorological Ground Station"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "GEOPHYSICAL STATIONS/NETWORKS", 
+        "Short_Name": "GRAVITY STATIONS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "GEOPHYSICAL STATIONS/NETWORKS", 
+        "Short_Name": "GSN", 
+        "Long_Name": "Global Seismic Network"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "GEOPHYSICAL STATIONS/NETWORKS", 
+        "Short_Name": "IRIS-GSN", 
+        "Long_Name": "Incorporated Research Institutions for Seismology Network - Global Seismographic Network"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "GEOPHYSICAL STATIONS/NETWORKS", 
+        "Short_Name": "PASSCAL", 
+        "Long_Name": "Program for Array Seismic Studies of the Continental Lithosphere"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "GEOPHYSICAL STATIONS/NETWORKS", 
+        "Short_Name": "SEISMOLOGICAL STATIONS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "GEOPHYSICAL STATIONS/NETWORKS", 
+        "Short_Name": "SGO", 
+        "Long_Name": "Superconducting  Gravimeter Observatory"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "GEOPHYSICAL STATIONS/NETWORKS", 
+        "Short_Name": "VOLCANO OBSERVATORY", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "GEOPHYSICAL STATIONS/NETWORKS", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "HYDROLOGICAL STATIONS", 
+        "Short_Name": "PMS", 
+        "Long_Name": "Permafrost Monitoring Stations"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "HYDROLOGICAL STATIONS", 
+        "Short_Name": "STREAMFLOW STATION", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "HYDROLOGICAL STATIONS", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "MOBILE STATIONS/VEHICLES", 
+        "Short_Name": "HAGGLUND", 
+        "Long_Name": "NZAP Hagglund Oversnow Vehicle"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "MOBILE STATIONS/VEHICLES", 
+        "Short_Name": "NSRN", 
+        "Long_Name": "NOAA Solar Radiation Network"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "MOBILE STATIONS/VEHICLES", 
+        "Short_Name": "PAM-II", 
+        "Long_Name": "Portable Automated Mesonet II"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "MOBILE STATIONS/VEHICLES", 
+        "Short_Name": "PAM", 
+        "Long_Name": "Portable Automated Mesonet"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "MOBILE STATIONS/VEHICLES", 
+        "Short_Name": "SV", 
+        "Long_Name": "Snow Vehicle"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "MOBILE STATIONS/VEHICLES", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "OCEAN PLATFORM/OCEAN STATIONS", 
+        "Short_Name": "COASTAL STATIONS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "OCEAN PLATFORM/OCEAN STATIONS", 
+        "Short_Name": "CODAR SeaSonde", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "OCEAN PLATFORM/OCEAN STATIONS", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "SOLAR/SPACE MONITORING STATIONS", 
+        "Short_Name": "GONG NETWORK", 
+        "Long_Name": "Global Oscillation Network Group"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "SOLAR/SPACE MONITORING STATIONS", 
+        "Short_Name": "MIO", 
+        "Long_Name": "Mobile Ionospheric Observatory"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "SOLAR/SPACE MONITORING STATIONS", 
+        "Short_Name": "NEUTRON MONITOR STATIONS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "SOLAR/SPACE MONITORING STATIONS", 
+        "Short_Name": "RSTN", 
+        "Long_Name": "Radio Solar Telescope Network"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "SOLAR/SPACE MONITORING STATIONS", 
+        "Short_Name": "SID", 
+        "Long_Name": "Sudden Ionospheric Disturbance Stations"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "SOLAR/SPACE MONITORING STATIONS", 
+        "Short_Name": "SOON", 
+        "Long_Name": "Solar Observing Optical Network"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "SOLAR/SPACE MONITORING STATIONS", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "AGBFM", 
+        "Long_Name": "Advanced Ground Based Field Mill"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "ANTHMS", 
+        "Long_Name": "Antarctic Hydrometric Stations"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "ARWS", 
+        "Long_Name": "Automatic Remote Weather Station"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "ASOS", 
+        "Long_Name": "Automated Surface Observing System"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "AWOS", 
+        "Long_Name": "Automated Weather Observing System"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "ENTLN", 
+        "Long_Name": "Earth Networks Total Lightning Network (ENTLN)"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "GAW", 
+        "Long_Name": "Global Atmospheric Stations"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "LDAR", 
+        "Long_Name": "Lightning Detection and Ranging"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "LPATS", 
+        "Long_Name": "Lightning Positioning and Tracking System Network"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "MESONET", 
+        "Long_Name": "Mesoscale Meteorological Network"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "METEOROLOGICAL STATIONS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "MIPS", 
+        "Long_Name": "Mobile Integrated Profiling System"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "NLDN", 
+        "Long_Name": "National Lightning Detection Network"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "PROFS", 
+        "Long_Name": "Program for Regional Observing and Forecast Systems Mesonet"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "SMART-R", 
+        "Long_Name": "Shared Mobile Atmospheric Research and Teaching  Radar"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "SOLAR RADIATION STATIONS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "TMRS2", 
+        "Long_Name": "Tower Mounted Radiometer System 2"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "WEATHER STATIONS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "WWLLN", 
+        "Long_Name": "World Wide Lightning Location Network"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "X-POW", 
+        "Long_Name": "X-band Polarimetric Weather Radar"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "WEATHER STATIONS/NETWORKS", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "ACARS", 
+        "Long_Name": "ACARS Ground Receiving Station"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "AES", 
+        "Long_Name": "Atmospheric Environment Service"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "COMPUTERS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "CONTROL SURVEYS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "FIELD INVESTIGATION", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "FIELD SURVEYS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "FIXED OBSERVATION STATIONS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "GREAT WALL STATION", 
+        "Long_Name": "CHINESE GREAT WALL STATION"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "GROUND STATIONS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "GROUND-BASED OBSERVATIONS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "IMPROVE", 
+        "Long_Name": "IMPROVE ambient monitoring network"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "LABORATORY", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "OBSERVATORIES", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "PHOTOSYNTHESIS CHAMBER", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "PML", 
+        "Long_Name": "Plymouth Marine Laboratory"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "RADIO TRANSMITTERS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "SOLAR OBSERVATORY STATIONS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "SURFACE WATER WEIR", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "TRAVERSE", 
+        "Long_Name": "Logistic tractor traverse"
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "TRIPOD", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Land-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "BUOYS", 
+        "Short_Name": "BUOYS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "BUOYS", 
+        "Short_Name": "TAO", 
+        "Long_Name": "TROPICAL ATMOSPHERE OCEAN"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "BUOYS", 
+        "Short_Name": "TRITON", 
+        "Long_Name": "TRIangle Trans-Ocean Buoy Network"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "BUOYS", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "FLOATS", 
+        "Short_Name": "PALACE FLOAT", 
+        "Long_Name": "Profiling Autonomous Lagrangian Circulation Explorer"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "FLOATS", 
+        "Short_Name": "PROTEUS", 
+        "Long_Name": "Profile Telemetry of Upper Ocean Currents"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "FLOATS", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "MOORINGS", 
+        "Short_Name": "ATLAS MOORINGS", 
+        "Long_Name": "Autonomous Temperature Line Acquisition System"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "MOORINGS", 
+        "Short_Name": "MOORINGS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "MOORINGS", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "OCEAN PLATFORM/OCEAN STATIONS", 
+        "Short_Name": "C-MAN", 
+        "Long_Name": "Coastal Marine Network"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "OCEAN PLATFORM/OCEAN STATIONS", 
+        "Short_Name": "DRILLING PLATFORMS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "OCEAN PLATFORM/OCEAN STATIONS", 
+        "Short_Name": "GEOSTAR", 
+        "Long_Name": "GEophysical and Oceanographic STation for Abyssal Research"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "OCEAN PLATFORM/OCEAN STATIONS", 
+        "Short_Name": "NEMO-SN1", 
+        "Long_Name": "NEutrino Mediterranean Observatory - Submarine Network 1"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "OCEAN PLATFORM/OCEAN STATIONS", 
+        "Short_Name": "OCEAN PLATFORMS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "OCEAN PLATFORM/OCEAN STATIONS", 
+        "Short_Name": "OCEAN WEATHER STATIONS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "OCEAN PLATFORM/OCEAN STATIONS", 
+        "Short_Name": "SN-2", 
+        "Long_Name": "Submarine Network 2"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "OCEAN PLATFORM/OCEAN STATIONS", 
+        "Short_Name": "SN-4", 
+        "Long_Name": "Submarine Network 4"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "OCEAN PLATFORM/OCEAN STATIONS", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "AIRBOAT", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "B/O MYTILUS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "B/O SG", 
+        "Long_Name": "B/O SARMIENTO DE GAMBOA"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "F/V GREAT PACIFIC", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V AA", 
+        "Long_Name": "R/V Aurora Australis"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V AKADEMIK M.A. LAVRENTYEV", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V ALPHA HELIX", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V AMA", 
+        "Long_Name": "R/V AMIR MOULAY ABDALLAH"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V ARANDA", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V ARAON", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V DOLPHIN", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V FERRELL", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V HERITAGE", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V ITALIA", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V ITALICA", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V Ivan Petrov", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V L'ASTRO", 
+        "Long_Name": "R/V L'ASTROLABE"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V LL", 
+        "Long_Name": "R/V LADY LISA"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V LMG", 
+        "Long_Name": "R/V Laurence M. Gould"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V LOUIS S. ST. LAURENT", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V MILLER FREEMAN", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V NBP", 
+        "Long_Name": "R/V Nathaniel B. Palmer"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V ONNURI", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V OREGON", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V OSHORO-MARU", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V PALMETTO", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V PANDALUS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V POLARSTERN", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V PROFESSOR KHROMOV", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V RHB", 
+        "Long_Name": "R/V RONALD H. BROWN"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V TANGAROA", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V UM", 
+        "Long_Name": "R/V UMITAKA MARU"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V WECOMA", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V XUELONG", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "R/V YUZ", 
+        "Long_Name": "R/V YUZHMORGEOLOGIYA"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "RRS DISCOVERY", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "RSS JAMES CLARK ROSS", 
+        "Long_Name": "RSS JAMES CLARK ROSS"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "SHIPS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "SUBMARINE", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "ZODIACS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "SHIPS", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "AUVS", 
+        "Long_Name": "Autonomous Underwater Vehicles"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "DART", 
+        "Long_Name": "Deep-ocean Assessment and Reporting of Tsunamis"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "NDBC MOORED BUOY", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "ROV", 
+        "Long_Name": "Remotely Operated Vehicles"
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "SEAGLIDER", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "SEASOAR", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "In Situ Ocean-based Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Interplanetary Spacecraft", 
+        "Series_Entity": "FLYBY", 
+        "Short_Name": "MARINER 2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Interplanetary Spacecraft", 
+        "Series_Entity": "FLYBY", 
+        "Short_Name": "PIONEER 10", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Interplanetary Spacecraft", 
+        "Series_Entity": "FLYBY", 
+        "Short_Name": "PIONEER 11", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Interplanetary Spacecraft", 
+        "Series_Entity": "FLYBY", 
+        "Short_Name": "VOYAGER 1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Interplanetary Spacecraft", 
+        "Series_Entity": "FLYBY", 
+        "Short_Name": "VOYAGER 2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Interplanetary Spacecraft", 
+        "Series_Entity": "FLYBY", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Interplanetary Spacecraft", 
+        "Series_Entity": "LANDER", 
+        "Short_Name": "VENERA-13", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Interplanetary Spacecraft", 
+        "Series_Entity": "LANDER", 
+        "Short_Name": "VENERA-14", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Interplanetary Spacecraft", 
+        "Series_Entity": "LANDER", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Interplanetary Spacecraft", 
+        "Series_Entity": "ORBITER", 
+        "Short_Name": "PIONEER VENUS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Interplanetary Spacecraft", 
+        "Series_Entity": "ORBITER", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Interplanetary Spacecraft", 
+        "Series_Entity": "", 
+        "Short_Name": "LUNOKHOD", 
+        "Long_Name": "Lunar Retroreflector Array"
+    }, 
+    {
+        "Category": "Interplanetary Spacecraft", 
+        "Series_Entity": "", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Maps/Charts/Photographs", 
+        "Series_Entity": "", 
+        "Short_Name": "AERIAL PHOTOGRAPHS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Maps/Charts/Photographs", 
+        "Series_Entity": "", 
+        "Short_Name": "MAPS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Maps/Charts/Photographs", 
+        "Series_Entity": "", 
+        "Short_Name": "MISSION REPORTS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Maps/Charts/Photographs", 
+        "Series_Entity": "", 
+        "Short_Name": "STEREOGRAPHIC PHOTOGRAPHS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Maps/Charts/Photographs", 
+        "Series_Entity": "", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "Data Analysis", 
+        "Short_Name": "Environmental Modeling", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "Data Analysis", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "Merged Analysis", 
+        "Short_Name": "LANDMET", 
+        "Long_Name": "CCNY NOAA-CREST Land Surface Atmospheric Boundary Processing Method"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "Merged Analysis", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "CESM", 
+        "Long_Name": "NCAR Community Earth System Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "CLIMATE MODELS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "CLM-LSM", 
+        "Long_Name": "Common Land Model (CLM) Land Surface Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "CMORPH", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "CRM", 
+        "Long_Name": "Cloud Resolving Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "Catchment-LSM", 
+        "Long_Name": "Catchment Land Surface Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "DEM", 
+        "Long_Name": "Digital Elevation Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "ECMWFIFS", 
+        "Long_Name": "ECMWF Integrated Forecast System"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "ERA15DAS", 
+        "Long_Name": "ERA15 Data Assimilation System"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "ERA40DAS", 
+        "Long_Name": "ERA40 Data Assimilation System"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "FSL-MAPS", 
+        "Long_Name": "FSL Mesoscale Analysis and Prediction System"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "Forcing-LSM", 
+        "Long_Name": "Forcing data for Land Surface Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "GCM", 
+        "Long_Name": "General Circulation Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "GEOS-4", 
+        "Long_Name": "Goddard EOS Data Assimilation System-4"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "GEOS-Chem", 
+        "Long_Name": "Global 3-D chemical transport model (CTM) for atmospheric composition driven by meteorological input from the Goddard > Earth Observing System (GEOS) of the NASA Global Modeling and Assimilation Office"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "GOCART", 
+        "Long_Name": "Goddard Chemistry Aerosol Radiation and Transport Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "LNOM", 
+        "Long_Name": "Lightning Nitrogen Oxides Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "LSM", 
+        "Long_Name": "Land Surface Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "MERRA-2", 
+        "Long_Name": "The second Modern-Era Retrospective analysis for Research and Applications"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "MERRA", 
+        "Long_Name": "Modern-Era Retrospective Analysis for Research and Applications"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "MICOM", 
+        "Long_Name": "Miami Isopycnic Coordinate Ocean Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "MODELS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "Mosaic-LSM", 
+        "Long_Name": "Mosaic Land Surface Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "NCEP-CFSR", 
+        "Long_Name": "NCEP Climate Forecast System Reanalysis"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "NCEP-CFSV2", 
+        "Long_Name": "NCEP Climate Forecast System Version 2"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "NCEP-ETA", 
+        "Long_Name": "NCEP Eta Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "NCEP-FNL", 
+        "Long_Name": "NCEP Final Global Data Assimilation System"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "NCEP-GFS", 
+        "Long_Name": "NCEP Global Forecast System"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "NCEP-GODAS", 
+        "Long_Name": "NCEP Global Ocean Data Assimilation System"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "NCEP-MRF", 
+        "Long_Name": "NCEP Medium Range Forecast Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "NCEP-NAM", 
+        "Long_Name": "NCEP North American Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "NCEP-RUC", 
+        "Long_Name": "NCEP Rapid Update Cycle Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "NCEP/DOE-R2M", 
+        "Long_Name": "NCEP/DOE Reanalysis 2 Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "NCEP/NCAR-RM", 
+        "Long_Name": "NCEP/NCAR Reanalysis Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "NOBM", 
+        "Long_Name": "NASA Ocean Biogeochemical Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "Noah-LSM", 
+        "Long_Name": "Noah Land Surface Model "
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "OBSERVATION BASED", 
+        "Long_Name": "OBSERVATION BASED ANALYSES"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "OPERATIONAL MODELS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "POM", 
+        "Long_Name": "Princeton Ocean Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "RASI", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "REANALYSIS MODELS", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "VIC-LSM", 
+        "Long_Name": "Variable Infiltration Capacity (VIC) Land Surface Model"
+    }, 
+    {
+        "Category": "Models/Analyses", 
+        "Series_Entity": "", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "Beidou (China's Satellite Navigation System)", 
+        "Short_Name": "Beidou", 
+        "Long_Name": "Beidou Satellites"
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "Beidou (China's Satellite Navigation System)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "GLONASS (Russia's GLObal NAvigation Satellite System)", 
+        "Short_Name": "GLONASS-40-82", 
+        "Long_Name": "Global Navigation Satellite System 40-82"
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "GLONASS (Russia's GLObal NAvigation Satellite System)", 
+        "Short_Name": "GLONASS", 
+        "Long_Name": "(GLObal NAvigation Satellite System)"
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "GLONASS (Russia's GLObal NAvigation Satellite System)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "GPS (Global Positioning System)", 
+        "Short_Name": "GPS-35", 
+        "Long_Name": "Global Positioning System Satellites-35"
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "GPS (Global Positioning System)", 
+        "Short_Name": "GPS-36", 
+        "Long_Name": "Global Positioning System Satellites-36"
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "GPS (Global Positioning System)", 
+        "Short_Name": "GPS", 
+        "Long_Name": "Global Positioning System Satellites"
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "GPS (Global Positioning System)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "Galileo (Europe's European Satellite Navigation System)", 
+        "Short_Name": "Galileo", 
+        "Long_Name": "Galileo Satellites"
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "Galileo (Europe's European Satellite Navigation System)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "IRNSS (India's Regional Navigation Satellite System)", 
+        "Short_Name": "IRNSS", 
+        "Long_Name": "India\u00e2\u0080\u0099s Regional Navigation Satellite System Satellites"
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "IRNSS (India's Regional Navigation Satellite System)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "NAVSTAR", 
+        "Short_Name": "NAVSTAR", 
+        "Long_Name": "NAVSTAR Global Positioning System"
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "NAVSTAR", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "QZSS (Japan's Quasi-Zenith Satellite System)", 
+        "Short_Name": "QZSS", 
+        "Long_Name": "Quasi-Zenith Satellite System Satellites"
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "QZSS (Japan's Quasi-Zenith Satellite System)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "SBAS (Satellite-Based Augmentation System)", 
+        "Short_Name": "SBAS", 
+        "Long_Name": "Satellite-Based Augmentation System Satellites"
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "SBAS (Satellite-Based Augmentation System)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "FEDSAT", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Navigation Platforms", 
+        "Series_Entity": "", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "EOS (Earth Observing System)", 
+        "Short_Name": "SORCE", 
+        "Long_Name": "Solar Radiation and Climate Experiment"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "EOS (Earth Observing System)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "EXPLORER", 
+        "Short_Name": "EXPLORER-31 (DME-A)", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "EXPLORER", 
+        "Short_Name": "EXPLORER-33", 
+        "Long_Name": "Interplanetary Monitoring Platform D (IMP-D)"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "EXPLORER", 
+        "Short_Name": "EXPLORER-35", 
+        "Long_Name": "Interplanetary Monitoring Platform D (IMP-E)"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "EXPLORER", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "Explorer", 
+        "Short_Name": "SNOE", 
+        "Long_Name": "Student Nitric Oxide Explorer"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "Explorer", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "GOES", 
+        "Short_Name": "GOES-10", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "GOES", 
+        "Short_Name": "GOES-11", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "GOES", 
+        "Short_Name": "GOES-12", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "GOES", 
+        "Short_Name": "GOES-13", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "GOES", 
+        "Short_Name": "GOES-14", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "GOES", 
+        "Short_Name": "GOES-15", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "GOES", 
+        "Short_Name": "GOES-16", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "GOES", 
+        "Short_Name": "GOES-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "GOES", 
+        "Short_Name": "GOES-2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "GOES", 
+        "Short_Name": "GOES-3", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "GOES", 
+        "Short_Name": "GOES-4", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "GOES", 
+        "Short_Name": "GOES-5", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "GOES", 
+        "Short_Name": "GOES-6", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "GOES", 
+        "Short_Name": "GOES-7", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "GOES", 
+        "Short_Name": "GOES-8", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "GOES", 
+        "Short_Name": "GOES-9", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "GOES", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "IMP (Interplanetary Monitoring Platform)", 
+        "Short_Name": "IMP-8", 
+        "Long_Name": "Interplanetary Monitoring Platform-8"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "IMP (Interplanetary Monitoring Platform)", 
+        "Short_Name": "IMP-I", 
+        "Long_Name": "Interplanetary Monitoring Platform-I"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "IMP (Interplanetary Monitoring Platform)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "Living with a Star", 
+        "Short_Name": "SDO", 
+        "Long_Name": "Solar Dynamics Observatory"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "Living with a Star", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "NASA Medium Class Explorers (MIDEX)", 
+        "Short_Name": "THEMIS", 
+        "Long_Name": "Time History of Events and Macroscale Interactions During Substorms"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "NASA Medium Class Explorers (MIDEX)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "NASA Small Explorer (SMEX)", 
+        "Short_Name": "GEMS", 
+        "Long_Name": "Gravity and Extreme Magnetism Small Explorer"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "NASA Small Explorer (SMEX)", 
+        "Short_Name": "TRACE", 
+        "Long_Name": "Transition Region and Coronal Explorer"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "NASA Small Explorer (SMEX)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "OSO (Orbiting Solar Observatory)", 
+        "Short_Name": "OSO-1", 
+        "Long_Name": "Orbiting Solar Observatory-1"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "OSO (Orbiting Solar Observatory)", 
+        "Short_Name": "OSO-2", 
+        "Long_Name": "Orbiting Solar Observatory-2"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "OSO (Orbiting Solar Observatory)", 
+        "Short_Name": "OSO-3", 
+        "Long_Name": "Orbiting Solar Observatory-3"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "OSO (Orbiting Solar Observatory)", 
+        "Short_Name": "OSO-4", 
+        "Long_Name": "Orbiting Solar Observatory-4"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "OSO (Orbiting Solar Observatory)", 
+        "Short_Name": "OSO-5", 
+        "Long_Name": "Orbiting Solar Observatory-5"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "OSO (Orbiting Solar Observatory)", 
+        "Short_Name": "OSO-6", 
+        "Long_Name": "Orbiting Solar Observatory-6"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "OSO (Orbiting Solar Observatory)", 
+        "Short_Name": "OSO-7", 
+        "Long_Name": "Orbiting Solar Observatory-7"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "OSO (Orbiting Solar Observatory)", 
+        "Short_Name": "OSO-8", 
+        "Long_Name": "Orbiting Solar Observatory-8"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "OSO (Orbiting Solar Observatory)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "RAE (Radio Astronomy Explorer)", 
+        "Short_Name": "RAE-A", 
+        "Long_Name": "Radio Astronomy Explorer-A"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "RAE (Radio Astronomy Explorer)", 
+        "Short_Name": "RAE-B", 
+        "Long_Name": "Radio Astronomy Explorer-B (Explorer 49)"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "RAE (Radio Astronomy Explorer)", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "SOLRAD", 
+        "Short_Name": "SOLRAD-10", 
+        "Long_Name": "Solar Radiation-10"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "SOLRAD", 
+        "Short_Name": "SOLRAD-1", 
+        "Long_Name": "Solar Radiation-1"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "SOLRAD", 
+        "Short_Name": "SOLRAD-7A", 
+        "Long_Name": "Solar Radiation-7A"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "SOLRAD", 
+        "Short_Name": "SOLRAD-7B", 
+        "Long_Name": "Solar Radiation-7B"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "SOLRAD", 
+        "Short_Name": "SOLRAD-8", 
+        "Long_Name": "Solar Radiation-8"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "SOLRAD", 
+        "Short_Name": "SOLRAD-9", 
+        "Long_Name": "Solar Radiation-9"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "SOLRAD", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "ACE", 
+        "Long_Name": "Advanced Composition Explorer (ACE)"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "ACRIMSAT", 
+        "Long_Name": "Active Cavity Radiometer Irradiance Monitor Satellite"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "C/NOFS", 
+        "Long_Name": "Communication and Navigation Outage Forecast System"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "CLUSTER-II", 
+        "Long_Name": "CLUSTER-II"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "COSMIC/FORMOSAT-3", 
+        "Long_Name": "Constellation Observing System for Meteorology, Ionosphere and Climate"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "DSCOVR", 
+        "Long_Name": "Deep Space Climate Observatory"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "EQUATOR-S", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "FAST", 
+        "Long_Name": "Fast Auroral Snapshot Explorer"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "FERMI", 
+        "Long_Name": "Fermi Gamma-ray Space Telescope"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "GEOTAIL", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "GRO", 
+        "Long_Name": "Gamma-Ray Observatory"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "HELIOS 1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "HELIOS 2", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "HESSI", 
+        "Long_Name": "High Energy Solar Spectroscopic Imager"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "HINODE", 
+        "Long_Name": "Hinode (Solar-B)"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "HINOTORI", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "HST", 
+        "Long_Name": "Hubble Space Telescope"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "IRAS", 
+        "Long_Name": "Infrared Astronomy Satellite"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "PIONEER 6", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "PIONEER 7", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "POLAR", 
+        "Long_Name": "POLAR"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "RHESSI", 
+        "Long_Name": "Reuven Ramaty High Energy Solar Spectroscopic Imager"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "SAMPEX", 
+        "Long_Name": "SolarAnomalous and Magnetospheric Particle Explorer"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "SMM", 
+        "Long_Name": "Solar Maximum Mission"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "SOHO", 
+        "Long_Name": "Solar and Heliospheric Observatory"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "STEREO A", 
+        "Long_Name": "Solar Terrestrial Relations Observatory A"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "STEREO B", 
+        "Long_Name": "Solar Terrestrial Relations Observatory B"
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "ULYSSES", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "WIND", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "YOHKOH", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Solar/Space Observation Satellites", 
+        "Series_Entity": "", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "APOLLO", 
+        "Short_Name": "APOLLO-SOYUZ", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "APOLLO", 
+        "Short_Name": "APOLLO", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "APOLLO", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "GEMINI", 
+        "Short_Name": "GEMINI-10", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "GEMINI", 
+        "Short_Name": "GEMINI-11", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "GEMINI", 
+        "Short_Name": "GEMINI-12", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "GEMINI", 
+        "Short_Name": "GEMINI-3", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "GEMINI", 
+        "Short_Name": "GEMINI-4", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "GEMINI", 
+        "Short_Name": "GEMINI-5", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "GEMINI", 
+        "Short_Name": "GEMINI-6", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "GEMINI", 
+        "Short_Name": "GEMINI-7", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "GEMINI", 
+        "Short_Name": "GEMINI-8", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "GEMINI", 
+        "Short_Name": "GEMINI-9", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "GEMINI", 
+        "Short_Name": "GEMINI", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "GEMINI", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "ATLAS", 
+        "Long_Name": "Atmospheric Laboratory for Applications and Science"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "OV-099", 
+        "Long_Name": "Challenger Space Shuttle"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "OV-102", 
+        "Long_Name": "Columbia Space Shuttle"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "OV-103", 
+        "Long_Name": "Discovery Space Shuttle"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "OV-104", 
+        "Long_Name": "Atlantis Space Shuttle"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "OV-105", 
+        "Long_Name": "Endeavour Space Shuttle"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "SPACE SHUTTLES", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "SPACELAB-1", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "SPACELAB-3", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "SPAS-II", 
+        "Long_Name": "Shuttle Pallet Satellite-II"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "SRL-1", 
+        "Long_Name": "Space Radar Laboratory-1"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "SRL-2", 
+        "Long_Name": "Space Radar Laboratory-2"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-11", 
+        "Long_Name": "Space Transport System STS-11"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-2", 
+        "Long_Name": "Space Transport System STS-2"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-34", 
+        "Long_Name": "Space Transport System STS-34"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-39", 
+        "Long_Name": "Space Transport System STS-39"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-41G", 
+        "Long_Name": "Space Transport System STS-41G"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-41", 
+        "Long_Name": "Space Transport System STS-41"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-43", 
+        "Long_Name": "Space Transport System STS-43"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-45", 
+        "Long_Name": "Space Transport System STS-45"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-51B", 
+        "Long_Name": "Space Transport System STS-51B"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-51F", 
+        "Long_Name": "Space Transport System STS-51F"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-55", 
+        "Long_Name": "Space Transport System STS-55"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-56", 
+        "Long_Name": "Space Transport System STS-56"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-59", 
+        "Long_Name": "Space Transport System STS-59"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-62", 
+        "Long_Name": "Space Transport System STS-62"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-64", 
+        "Long_Name": "Space Transport System STS-64"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-66", 
+        "Long_Name": "Space Transport System STS-66"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-68", 
+        "Long_Name": "Space Transport System STS-68"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-72", 
+        "Long_Name": "Space Transport System STS-72"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-7", 
+        "Long_Name": "Space Transport System STS-7"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-99", 
+        "Long_Name": "Space Transport System STS-99"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "STS-9", 
+        "Long_Name": "Space Transport System STS-9"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "SPACE SHUTTLE", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "", 
+        "Short_Name": "ISS", 
+        "Long_Name": "International Space Station"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "", 
+        "Short_Name": "MERCURY", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "", 
+        "Short_Name": "MIR-PRIRODA", 
+        "Long_Name": "PRIRODA Module of MIR Space Station"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "", 
+        "Short_Name": "OSTA-1", 
+        "Long_Name": "Office of Space & Terrestrial Applications-1"
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "", 
+        "Short_Name": "SKYLAB", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "", 
+        "Short_Name": "SOYUZ", 
+        "Long_Name": ""
+    }, 
+    {
+        "Category": "Space Stations/Manned Spacecraft", 
+        "Series_Entity": "", 
+        "Short_Name": "", 
+        "Long_Name": ""
+    }
+]

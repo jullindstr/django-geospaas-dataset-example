@@ -1,0 +1,3652 @@
+[
+    {
+        "Revision": "2017-07-25 21:28:45"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "CENTRAL AFRICA", 
+        "Location_Subregion2": "ANGOLA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "CENTRAL AFRICA", 
+        "Location_Subregion2": "CAMEROON", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "CENTRAL AFRICA", 
+        "Location_Subregion2": "CENTRAL AFRICAN REPUBLIC", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "CENTRAL AFRICA", 
+        "Location_Subregion2": "CHAD", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "CENTRAL AFRICA", 
+        "Location_Subregion2": "CONGO, DEMOCRATIC REPUBLIC", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "CENTRAL AFRICA", 
+        "Location_Subregion2": "CONGO", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "CENTRAL AFRICA", 
+        "Location_Subregion2": "EQUATORIAL GUINEA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "CENTRAL AFRICA", 
+        "Location_Subregion2": "GABON", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "CENTRAL AFRICA", 
+        "Location_Subregion2": "LAKE CHAD", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "CENTRAL AFRICA", 
+        "Location_Subregion2": "ZAIRE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "CENTRAL AFRICA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "EASTERN AFRICA", 
+        "Location_Subregion2": "BURUNDI", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "EASTERN AFRICA", 
+        "Location_Subregion2": "DJIBOUTI", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "EASTERN AFRICA", 
+        "Location_Subregion2": "ERITREA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "EASTERN AFRICA", 
+        "Location_Subregion2": "ETHIOPIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "EASTERN AFRICA", 
+        "Location_Subregion2": "KENYA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "EASTERN AFRICA", 
+        "Location_Subregion2": "LAKE MALAWI", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "EASTERN AFRICA", 
+        "Location_Subregion2": "LAKE TANGANYIKA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "EASTERN AFRICA", 
+        "Location_Subregion2": "LAKE VICTORIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "EASTERN AFRICA", 
+        "Location_Subregion2": "MALAWI", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "EASTERN AFRICA", 
+        "Location_Subregion2": "MOZAMBIQUE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "EASTERN AFRICA", 
+        "Location_Subregion2": "RWANDA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "EASTERN AFRICA", 
+        "Location_Subregion2": "SOMALIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "EASTERN AFRICA", 
+        "Location_Subregion2": "TANZANIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "EASTERN AFRICA", 
+        "Location_Subregion2": "UGANDA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "EASTERN AFRICA", 
+        "Location_Subregion2": "ZAMBIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "EASTERN AFRICA", 
+        "Location_Subregion2": "ZIMBABWE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "EASTERN AFRICA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "NORTHERN AFRICA", 
+        "Location_Subregion2": "ALGERIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "NORTHERN AFRICA", 
+        "Location_Subregion2": "EGYPT", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "NORTHERN AFRICA", 
+        "Location_Subregion2": "LIBYA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "NORTHERN AFRICA", 
+        "Location_Subregion2": "MOROCCO", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "NORTHERN AFRICA", 
+        "Location_Subregion2": "SOUTH SUDAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "NORTHERN AFRICA", 
+        "Location_Subregion2": "SUDAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "NORTHERN AFRICA", 
+        "Location_Subregion2": "TUNISIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "NORTHERN AFRICA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "SOUTHERN AFRICA", 
+        "Location_Subregion2": "BOTSWANA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "SOUTHERN AFRICA", 
+        "Location_Subregion2": "LESOTHO", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "SOUTHERN AFRICA", 
+        "Location_Subregion2": "NAMIBIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "SOUTHERN AFRICA", 
+        "Location_Subregion2": "SOUTH AFRICA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "SOUTHERN AFRICA", 
+        "Location_Subregion2": "SWAZILAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "SOUTHERN AFRICA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "WESTERN AFRICA", 
+        "Location_Subregion2": "BENIN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "WESTERN AFRICA", 
+        "Location_Subregion2": "BURKINA FASO", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "WESTERN AFRICA", 
+        "Location_Subregion2": "COTE D'IVOIRE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "WESTERN AFRICA", 
+        "Location_Subregion2": "GAMBIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "WESTERN AFRICA", 
+        "Location_Subregion2": "GHANA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "WESTERN AFRICA", 
+        "Location_Subregion2": "GUINEA-BISSAU", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "WESTERN AFRICA", 
+        "Location_Subregion2": "GUINEA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "WESTERN AFRICA", 
+        "Location_Subregion2": "LIBERIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "WESTERN AFRICA", 
+        "Location_Subregion2": "MALI", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "WESTERN AFRICA", 
+        "Location_Subregion2": "MAURITANIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "WESTERN AFRICA", 
+        "Location_Subregion2": "NIGERIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "WESTERN AFRICA", 
+        "Location_Subregion2": "NIGER", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "WESTERN AFRICA", 
+        "Location_Subregion2": "SENEGAL", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "WESTERN AFRICA", 
+        "Location_Subregion2": "SIERRA LEONE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "WESTERN AFRICA", 
+        "Location_Subregion2": "TOGO", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "WESTERN AFRICA", 
+        "Location_Subregion2": "WESTERN SAHARA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "WESTERN AFRICA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AFRICA", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ANTARCTICA", 
+        "Location_Subregion1": "ANTARCTIC PENINSULA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ANTARCTICA", 
+        "Location_Subregion1": "ROSS ISLAND", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ANTARCTICA", 
+        "Location_Subregion1": "TERRA NOVA BAY", 
+        "Location_Subregion2": "MT MELBOURNE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ANTARCTICA", 
+        "Location_Subregion1": "TERRA NOVA BAY", 
+        "Location_Subregion2": "MT RITTMAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ANTARCTICA", 
+        "Location_Subregion1": "TERRA NOVA BAY", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ANTARCTICA", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "EASTERN ASIA", 
+        "Location_Subregion2": "CHINA", 
+        "Location_Subregion3": "HONG KONG"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "EASTERN ASIA", 
+        "Location_Subregion2": "CHINA", 
+        "Location_Subregion3": "MACAU"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "EASTERN ASIA", 
+        "Location_Subregion2": "CHINA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "EASTERN ASIA", 
+        "Location_Subregion2": "JAPAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "EASTERN ASIA", 
+        "Location_Subregion2": "MONGOLIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "EASTERN ASIA", 
+        "Location_Subregion2": "NORTH KOREA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "EASTERN ASIA", 
+        "Location_Subregion2": "SOUTH KOREA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "EASTERN ASIA", 
+        "Location_Subregion2": "TAIWAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "EASTERN ASIA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHCENTRAL ASIA", 
+        "Location_Subregion2": "AFGHANISTAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHCENTRAL ASIA", 
+        "Location_Subregion2": "ARAL SEA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHCENTRAL ASIA", 
+        "Location_Subregion2": "BANGLADESH", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHCENTRAL ASIA", 
+        "Location_Subregion2": "BHUTAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHCENTRAL ASIA", 
+        "Location_Subregion2": "INDIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHCENTRAL ASIA", 
+        "Location_Subregion2": "IRAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHCENTRAL ASIA", 
+        "Location_Subregion2": "KAZAKHSTAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHCENTRAL ASIA", 
+        "Location_Subregion2": "KYRGYZSTAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHCENTRAL ASIA", 
+        "Location_Subregion2": "NEPAL", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHCENTRAL ASIA", 
+        "Location_Subregion2": "PAKISTAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHCENTRAL ASIA", 
+        "Location_Subregion2": "TAJIKISTAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHCENTRAL ASIA", 
+        "Location_Subregion2": "TURKMENISTAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHCENTRAL ASIA", 
+        "Location_Subregion2": "UZBEKISTAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHCENTRAL ASIA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHEASTERN ASIA", 
+        "Location_Subregion2": "BURMA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHEASTERN ASIA", 
+        "Location_Subregion2": "CAMBODIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHEASTERN ASIA", 
+        "Location_Subregion2": "LAO PEOPLE'S DEMOCRATIC REPUBLIC", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHEASTERN ASIA", 
+        "Location_Subregion2": "THAILAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHEASTERN ASIA", 
+        "Location_Subregion2": "VIETNAM", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHEASTERN ASIA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "SOUTHERN ASIA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "ARMENIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "AZERBAIJAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "BLACK SEA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "CASPIAN SEA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "GEORGIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "MIDDLE EAST", 
+        "Location_Subregion3": "BAHRAIN"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "MIDDLE EAST", 
+        "Location_Subregion3": "GAZA STRIP"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "MIDDLE EAST", 
+        "Location_Subregion3": "IRAQ"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "MIDDLE EAST", 
+        "Location_Subregion3": "ISRAEL"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "MIDDLE EAST", 
+        "Location_Subregion3": "JORDAN"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "MIDDLE EAST", 
+        "Location_Subregion3": "KUWAIT"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "MIDDLE EAST", 
+        "Location_Subregion3": "LEBANON"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "MIDDLE EAST", 
+        "Location_Subregion3": "OMAN"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "MIDDLE EAST", 
+        "Location_Subregion3": "PALESTINE"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "MIDDLE EAST", 
+        "Location_Subregion3": "QATAR"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "MIDDLE EAST", 
+        "Location_Subregion3": "SAUDI ARABIA"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "MIDDLE EAST", 
+        "Location_Subregion3": "SYRIAN ARAB REPUBLIC"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "MIDDLE EAST", 
+        "Location_Subregion3": "UNITED ARAB EMIRATES"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "MIDDLE EAST", 
+        "Location_Subregion3": "YEMEN"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "MIDDLE EAST", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "TURKEY", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "WESTERN ASIA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "ASIA", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AUSTRALIA/NEW ZEALAND", 
+        "Location_Subregion1": "AUSTRALIA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AUSTRALIA/NEW ZEALAND", 
+        "Location_Subregion1": "NEW ZEALAND", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "AUSTRALIA/NEW ZEALAND", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "CENTRAL EUROPE", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "EASTERN EUROPE", 
+        "Location_Subregion2": "BELARUS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "EASTERN EUROPE", 
+        "Location_Subregion2": "BLACK SEA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "EASTERN EUROPE", 
+        "Location_Subregion2": "BULGARIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "EASTERN EUROPE", 
+        "Location_Subregion2": "BYELORUSSIAN SSR", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "EASTERN EUROPE", 
+        "Location_Subregion2": "CZECH REPUBLIC", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "EASTERN EUROPE", 
+        "Location_Subregion2": "HUNGARY", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "EASTERN EUROPE", 
+        "Location_Subregion2": "MOLDOVA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "EASTERN EUROPE", 
+        "Location_Subregion2": "POLAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "EASTERN EUROPE", 
+        "Location_Subregion2": "ROMANIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "EASTERN EUROPE", 
+        "Location_Subregion2": "RUSSIAN FEDERATION", 
+        "Location_Subregion3": "LAKE BAYKAL"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "EASTERN EUROPE", 
+        "Location_Subregion2": "RUSSIAN FEDERATION", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "EASTERN EUROPE", 
+        "Location_Subregion2": "SLOVAKIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "EASTERN EUROPE", 
+        "Location_Subregion2": "UKRAINE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "EASTERN EUROPE", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "NORTHERN EUROPE", 
+        "Location_Subregion2": "BRITISH ISLES", 
+        "Location_Subregion3": "CHANNEL ISLANDS"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "NORTHERN EUROPE", 
+        "Location_Subregion2": "BRITISH ISLES", 
+        "Location_Subregion3": "IRELAND"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "NORTHERN EUROPE", 
+        "Location_Subregion2": "BRITISH ISLES", 
+        "Location_Subregion3": "UNITED KINGDOM"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "NORTHERN EUROPE", 
+        "Location_Subregion2": "BRITISH ISLES", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "NORTHERN EUROPE", 
+        "Location_Subregion2": "ESTONIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "NORTHERN EUROPE", 
+        "Location_Subregion2": "ICELAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "NORTHERN EUROPE", 
+        "Location_Subregion2": "LATVIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "NORTHERN EUROPE", 
+        "Location_Subregion2": "LITHUANIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "NORTHERN EUROPE", 
+        "Location_Subregion2": "SCANDINAVIA", 
+        "Location_Subregion3": "ALAND ISLANDS"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "NORTHERN EUROPE", 
+        "Location_Subregion2": "SCANDINAVIA", 
+        "Location_Subregion3": "DENMARK"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "NORTHERN EUROPE", 
+        "Location_Subregion2": "SCANDINAVIA", 
+        "Location_Subregion3": "FINLAND"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "NORTHERN EUROPE", 
+        "Location_Subregion2": "SCANDINAVIA", 
+        "Location_Subregion3": "NORWAY"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "NORTHERN EUROPE", 
+        "Location_Subregion2": "SCANDINAVIA", 
+        "Location_Subregion3": "SWEDEN"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "NORTHERN EUROPE", 
+        "Location_Subregion2": "SCANDINAVIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "NORTHERN EUROPE", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "SOUTHERN EUROPE", 
+        "Location_Subregion2": "ALBANIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "SOUTHERN EUROPE", 
+        "Location_Subregion2": "ANDORRA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "SOUTHERN EUROPE", 
+        "Location_Subregion2": "BOSNIA AND HERZEGOVINA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "SOUTHERN EUROPE", 
+        "Location_Subregion2": "CROATIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "SOUTHERN EUROPE", 
+        "Location_Subregion2": "GREECE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "SOUTHERN EUROPE", 
+        "Location_Subregion2": "ITALY", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "SOUTHERN EUROPE", 
+        "Location_Subregion2": "MACEDONIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "SOUTHERN EUROPE", 
+        "Location_Subregion2": "MONTENEGRO", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "SOUTHERN EUROPE", 
+        "Location_Subregion2": "SAN MARINO", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "SOUTHERN EUROPE", 
+        "Location_Subregion2": "SERBIA", 
+        "Location_Subregion3": "KOSOVO"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "SOUTHERN EUROPE", 
+        "Location_Subregion2": "SERBIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "SOUTHERN EUROPE", 
+        "Location_Subregion2": "SLOVENIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "SOUTHERN EUROPE", 
+        "Location_Subregion2": "SPAIN", 
+        "Location_Subregion3": "GIBRALTAR"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "SOUTHERN EUROPE", 
+        "Location_Subregion2": "SPAIN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "SOUTHERN EUROPE", 
+        "Location_Subregion2": "VATICAN CITY", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "SOUTHERN EUROPE", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "WESTERN EUROPE", 
+        "Location_Subregion2": "AUSTRIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "WESTERN EUROPE", 
+        "Location_Subregion2": "BELGIUM", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "WESTERN EUROPE", 
+        "Location_Subregion2": "FRANCE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "WESTERN EUROPE", 
+        "Location_Subregion2": "GERMANY", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "WESTERN EUROPE", 
+        "Location_Subregion2": "LIECHTENSTEIN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "WESTERN EUROPE", 
+        "Location_Subregion2": "LUXEMBOURG", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "WESTERN EUROPE", 
+        "Location_Subregion2": "MONACO", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "WESTERN EUROPE", 
+        "Location_Subregion2": "NETHERLANDS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "WESTERN EUROPE", 
+        "Location_Subregion2": "PORTUGAL", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "WESTERN EUROPE", 
+        "Location_Subregion2": "SWITZERLAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "WESTERN EUROPE", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "EUROPE", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "ALBERTA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "BRITISH COLUMBIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "GEORGIAN BAY", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "GREAT LAKES, CANADA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "HUDSON BAY", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "MANITOBA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "NEW BRUNSWICK", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "NEWFOUNDLAND AND LABRADOR", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "NORTHWEST TERRITORIES", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "NOVA SCOTIA", 
+        "Location_Subregion3": "SCOTIAN SHELF"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "NOVA SCOTIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "NUNAVUT", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "ONTARIO", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "PRINCE EDWARD ISLAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "QUEBEC", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "SASKATCHEWAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "YUKON TERRITORY", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CANADA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CENTRAL AMERICA", 
+        "Location_Subregion2": "BELIZE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CENTRAL AMERICA", 
+        "Location_Subregion2": "COSTA RICA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CENTRAL AMERICA", 
+        "Location_Subregion2": "EL SALVADOR", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CENTRAL AMERICA", 
+        "Location_Subregion2": "GUATEMALA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CENTRAL AMERICA", 
+        "Location_Subregion2": "HONDURAS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CENTRAL AMERICA", 
+        "Location_Subregion2": "NICARAGUA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CENTRAL AMERICA", 
+        "Location_Subregion2": "PANAMA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "CENTRAL AMERICA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "GREENLAND", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "MEXICO", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "ALABAMA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "ALASKA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "ARIZONA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "ARKANSAS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "CALIFORNIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "COLORADO", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "CONNECTICUT", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "DELAWARE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "DISTRICT OF COLUMBIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "FLORIDA", 
+        "Location_Subregion3": "FLORIDA KEYS"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "FLORIDA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "GEORGIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "GREAT LAKES", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "HAWAII", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "IDAHO", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "ILLINOIS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "INDIANA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "IOWA", 
+        "Location_Subregion3": "DAVENPORT"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "IOWA", 
+        "Location_Subregion3": "DES MOINES"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "IOWA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "KANSAS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "KENTUCKY", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "LOUISIANA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "MAINE", 
+        "Location_Subregion3": "PORTLAND"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "MAINE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "MARYLAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "MASSACHUSETTS", 
+        "Location_Subregion3": "BOSTON"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "MASSACHUSETTS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "MICHIGAN", 
+        "Location_Subregion3": "GAYLORD"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "MICHIGAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "MINNESOTA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "MISSISSIPPI", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "MISSOURI", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "MONTANA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "NEBRASKA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "NEVADA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "NEW HAMPSHIRE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "NEW JERSEY", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "NEW MEXICO", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "NEW YORK", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "NORTH CAROLINA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "NORTH DAKOTA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "OHIO", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "OKLAHOMA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "OREGON", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "PENNSYLVANIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "RHODE ISLAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "SOUTH CAROLINA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "SOUTH DAKOTA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "TENNESSEE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "TEXAS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "UTAH", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "VERMONT", 
+        "Location_Subregion3": "BURLINGTON"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "VERMONT", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "VIRGINIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "WASHINGTON", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "WEST VIRGINIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "WISCONSIN", 
+        "Location_Subregion3": "LA CROSSE"
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "WISCONSIN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "WYOMING", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "UNITED STATES OF AMERICA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "NORTH AMERICA", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "SOUTH AMERICA", 
+        "Location_Subregion1": "AMAZONIA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "SOUTH AMERICA", 
+        "Location_Subregion1": "ARGENTINA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "SOUTH AMERICA", 
+        "Location_Subregion1": "BOLIVIA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "SOUTH AMERICA", 
+        "Location_Subregion1": "BRAZIL", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "SOUTH AMERICA", 
+        "Location_Subregion1": "CHILE", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "SOUTH AMERICA", 
+        "Location_Subregion1": "COLOMBIA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "SOUTH AMERICA", 
+        "Location_Subregion1": "ECUADOR", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "SOUTH AMERICA", 
+        "Location_Subregion1": "FRENCH GUIANA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "SOUTH AMERICA", 
+        "Location_Subregion1": "GUYANA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "SOUTH AMERICA", 
+        "Location_Subregion1": "PARAGUAY", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "SOUTH AMERICA", 
+        "Location_Subregion1": "PERU", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "SOUTH AMERICA", 
+        "Location_Subregion1": "SURINAME", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "SOUTH AMERICA", 
+        "Location_Subregion1": "URUGUAY", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "SOUTH AMERICA", 
+        "Location_Subregion1": "VENEZUELA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "SOUTH AMERICA", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "CONTINENT", 
+        "Location_Type": "", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "GEOGRAPHIC REGION", 
+        "Location_Type": "ARCTIC", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "GEOGRAPHIC REGION", 
+        "Location_Type": "EASTERN HEMISPHERE", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "GEOGRAPHIC REGION", 
+        "Location_Type": "EQUATORIAL", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "GEOGRAPHIC REGION", 
+        "Location_Type": "EURASIA", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "GEOGRAPHIC REGION", 
+        "Location_Type": "GLOBAL LAND", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "GEOGRAPHIC REGION", 
+        "Location_Type": "GLOBAL OCEAN", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "GEOGRAPHIC REGION", 
+        "Location_Type": "GLOBAL", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "GEOGRAPHIC REGION", 
+        "Location_Type": "MID-LATITUDE", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "GEOGRAPHIC REGION", 
+        "Location_Type": "NORTHERN HEMISPHERE", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "GEOGRAPHIC REGION", 
+        "Location_Type": "OCEANIA", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "GEOGRAPHIC REGION", 
+        "Location_Type": "POLAR", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "GEOGRAPHIC REGION", 
+        "Location_Type": "SAHEL", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "GEOGRAPHIC REGION", 
+        "Location_Type": "SOUTHERN HEMISPHERE", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "GEOGRAPHIC REGION", 
+        "Location_Type": "TROPICS", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "GEOGRAPHIC REGION", 
+        "Location_Type": "WESTERN HEMISPHERE", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "GEOGRAPHIC REGION", 
+        "Location_Type": "", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ARCTIC OCEAN", 
+        "Location_Subregion1": "BARENTS SEA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ARCTIC OCEAN", 
+        "Location_Subregion1": "BEAUFORT SEA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ARCTIC OCEAN", 
+        "Location_Subregion1": "CHUKCHI SEA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ARCTIC OCEAN", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "AZORES", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "BALTIC SEA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "BAY OF FUNDY", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "BERMUDA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CANARY ISLANDS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CAPE COD", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CAPE VERDE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "ANGUILLA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "ANTIGUA AND BARBUDA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "ARUBA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "BAHAMAS"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "BARBADOS"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "BONAIRE"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "CARIBBEAN"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "CAYMAN ISLANDS"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "CUBA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "CURACAO"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "DOMINICAN REPUBLIC"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "DOMINICA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "GRENADA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "GUADELOUPE"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "HAITI"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "JAMAICA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "MARTINIQUE"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "MONTSERRAT"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "NAVASSA ISLAND"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "NETHERLANDS ANTILLES"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "PUERTO RICO"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "SABA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "ST BARTHELEMY"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "ST EUSTATIUS"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "ST KITTS AND NEVIS"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "ST LUCIA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "ST MAARTEN"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "ST MARTIN"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "ST VINCENT AND THE GRENADINES"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "TRINIDAD AND TOBAGO"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "TRISTAN DA CUNHA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "TURKS AND CAICOS ISLANDS"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": "VIRGIN ISLANDS"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "CARIBBEAN SEA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "DAVIS STRAIT", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "GEORGES BANK", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "GRAND BANKS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "GULF OF MAINE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "GULF OF MEXICO", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "GULF OF ST LAWRENCE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "IRISH SEA", 
+        "Location_Subregion3": "ISLE OF MAN"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "IRISH SEA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "LONG ISLAND SOUND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "MADEIRA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "MEDITERRANEAN SEA", 
+        "Location_Subregion3": "ADRIATIC SEA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "MEDITERRANEAN SEA", 
+        "Location_Subregion3": "CEUTA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "MEDITERRANEAN SEA", 
+        "Location_Subregion3": "CORSICA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "MEDITERRANEAN SEA", 
+        "Location_Subregion3": "CYPRUS"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "MEDITERRANEAN SEA", 
+        "Location_Subregion3": "DHEKELIA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "MEDITERRANEAN SEA", 
+        "Location_Subregion3": "MALTA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "MEDITERRANEAN SEA", 
+        "Location_Subregion3": "SARDINIA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "MEDITERRANEAN SEA", 
+        "Location_Subregion3": "SICILY"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "MEDITERRANEAN SEA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "NORTH SEA", 
+        "Location_Subregion3": "LAESO"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "NORTH SEA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "NORWEGIAN SEA", 
+        "Location_Subregion3": "FAEROE ISLANDS"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "NORWEGIAN SEA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "SABLE ISLAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "ST PIERRE AND MIQUELON", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "SVALBARD AND JAN MAYEN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "NORTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "SOUTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "ASCENSION ISLAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "SOUTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "BOUVET ISLAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "SOUTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "FALKLAND ISLANDS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "SOUTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "GOUGH ISLAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "SOUTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "SAO TOME AND PRINCIPE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "SOUTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "SOUTH GEORGIA ISLAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "SOUTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "SOUTH ORKNEY ISLANDS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "SOUTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "SOUTH SANDWICH ISLANDS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "SOUTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "ST HELENA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "SOUTH ATLANTIC OCEAN", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "ATLANTIC OCEAN", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "AMSTERDAM AND ST. PAUL ISLANDS", 
+        "Location_Subregion2": "POINTE BENEDICTE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "AMSTERDAM AND ST. PAUL ISLANDS", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "ANDAMAN ISLANDS", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "ARABIAN SEA", 
+        "Location_Subregion2": "PERSIAN GULF", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "ARABIAN SEA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "BAY OF BENGAL", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "BRITISH INDIAN OCEAN TERRITORY", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "BRUNEI", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "CHRISTMAS ISLAND", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "COCOS ISLANDS", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "COMOROS", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "CROZET ISLANDS", 
+        "Location_Subregion2": "ILE DE LA POSSESSION, BASE ALFRED FAURE", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "CROZET ISLANDS", 
+        "Location_Subregion2": "POSSESSION ISLAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "CROZET ISLANDS", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "FRENCH SOUTHERN TERRITORIES", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "INDONESIA", 
+        "Location_Subregion2": "SUMATRA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "INDONESIA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "KERGUELEN ISLANDS", 
+        "Location_Subregion2": "PORT-AUX-FRANCAIS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "KERGUELEN ISLANDS", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "MADAGASCAR", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "MALAYSIA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "MALDIVES", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "MAURITIUS", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "MAYOTTE", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "NICOBAR ISLANDS", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "RED SEA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "REUNION", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "SEYCHELLES", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "SINGAPORE", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "SRI LANKA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "TIMOR-LESTE", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "ZANZIBAR", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "INDIAN OCEAN", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "AMERICAN SAMOA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "BAKER ISLAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "HAWAIIAN ISLANDS", 
+        "Location_Subregion3": "HAWAII ISLAND"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "HAWAIIAN ISLANDS", 
+        "Location_Subregion3": "KAHOOLAWE"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "HAWAIIAN ISLANDS", 
+        "Location_Subregion3": "KAUAI"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "HAWAIIAN ISLANDS", 
+        "Location_Subregion3": "LANAI"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "HAWAIIAN ISLANDS", 
+        "Location_Subregion3": "MAUI"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "HAWAIIAN ISLANDS", 
+        "Location_Subregion3": "MOLOKAI"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "HAWAIIAN ISLANDS", 
+        "Location_Subregion3": "NIIHAU"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "HAWAIIAN ISLANDS", 
+        "Location_Subregion3": "OAHU"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "HAWAIIAN ISLANDS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "HOWLAND ISLAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "JARVIS ISLAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "JOHNSTON ATOLL", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "KINGMAN REEF", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "KIRIBATI", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "MIDWAY ATOLL", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "PALMYRA ATOLL", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "UNITED STATES MINOR OUTLYING ISLANDS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "WAKE ISLAND", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "CENTRAL PACIFIC OCEAN", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "EASTERN PACIFIC OCEAN", 
+        "Location_Subregion2": "GALAPAGOS ISLANDS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "EASTERN PACIFIC OCEAN", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "NORTH PACIFIC OCEAN", 
+        "Location_Subregion2": "BERING SEA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "NORTH PACIFIC OCEAN", 
+        "Location_Subregion2": "GULF OF ALASKA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "NORTH PACIFIC OCEAN", 
+        "Location_Subregion2": "OKINAWA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "NORTH PACIFIC OCEAN", 
+        "Location_Subregion2": "SEA OF JAPAN", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "NORTH PACIFIC OCEAN", 
+        "Location_Subregion2": "SEA OF OKHOTSK", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "NORTH PACIFIC OCEAN", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "MELANESIA", 
+        "Location_Subregion3": "NEW CALEDONIA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "MELANESIA", 
+        "Location_Subregion3": "PAPUA NEW GUINEA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "MELANESIA", 
+        "Location_Subregion3": "SOLOMON ISLANDS"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "MELANESIA", 
+        "Location_Subregion3": "VANUATU"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "MELANESIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "POLYNESIA", 
+        "Location_Subregion3": "COOK ISLANDS"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "POLYNESIA", 
+        "Location_Subregion3": "FIJI"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "POLYNESIA", 
+        "Location_Subregion3": "FRENCH POLYNESIA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "POLYNESIA", 
+        "Location_Subregion3": "NIUE"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "POLYNESIA", 
+        "Location_Subregion3": "NORFOLK ISLAND"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "POLYNESIA", 
+        "Location_Subregion3": "PITCAIRN ISLANDS"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "POLYNESIA", 
+        "Location_Subregion3": "PITCAIRN ISLAND"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "POLYNESIA", 
+        "Location_Subregion3": "SAMOA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "POLYNESIA", 
+        "Location_Subregion3": "TOKELAU"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "POLYNESIA", 
+        "Location_Subregion3": "TONGA"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "POLYNESIA", 
+        "Location_Subregion3": "TUVALU"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "POLYNESIA", 
+        "Location_Subregion3": "WALLIS AND FUTUNA ISLANDS"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "POLYNESIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "SOUTH PACIFIC OCEAN", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "WESTERN PACIFIC OCEAN", 
+        "Location_Subregion2": "EAST CHINA SEA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "WESTERN PACIFIC OCEAN", 
+        "Location_Subregion2": "MICRONESIA", 
+        "Location_Subregion3": "CENTRAL PACIFIC KWAJ"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "WESTERN PACIFIC OCEAN", 
+        "Location_Subregion2": "MICRONESIA", 
+        "Location_Subregion3": "GUAM"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "WESTERN PACIFIC OCEAN", 
+        "Location_Subregion2": "MICRONESIA", 
+        "Location_Subregion3": "MARSHALL ISLANDS"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "WESTERN PACIFIC OCEAN", 
+        "Location_Subregion2": "MICRONESIA", 
+        "Location_Subregion3": "NAURU"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "WESTERN PACIFIC OCEAN", 
+        "Location_Subregion2": "MICRONESIA", 
+        "Location_Subregion3": "NORTHERN MARIANA ISLANDS"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "WESTERN PACIFIC OCEAN", 
+        "Location_Subregion2": "MICRONESIA", 
+        "Location_Subregion3": "PALAU"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "WESTERN PACIFIC OCEAN", 
+        "Location_Subregion2": "MICRONESIA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "WESTERN PACIFIC OCEAN", 
+        "Location_Subregion2": "PHILIPPINES", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "WESTERN PACIFIC OCEAN", 
+        "Location_Subregion2": "SOUTH CHINA AND EASTERN ARCHIPELAGIC SEAS", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "WESTERN PACIFIC OCEAN", 
+        "Location_Subregion2": "SOUTH CHINA SEA", 
+        "Location_Subregion3": "SPRATLY ISLANDS"
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "WESTERN PACIFIC OCEAN", 
+        "Location_Subregion2": "SOUTH CHINA SEA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "WESTERN PACIFIC OCEAN", 
+        "Location_Subregion2": "YELLOW SEA", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "WESTERN PACIFIC OCEAN", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "PACIFIC OCEAN", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "SOUTHERN OCEAN", 
+        "Location_Subregion1": "BELLINGSHAUSEN SEA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "SOUTHERN OCEAN", 
+        "Location_Subregion1": "HEARD AND MCDONALD ISLANDS", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "SOUTHERN OCEAN", 
+        "Location_Subregion1": "MACQUARIE ISLAND", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "SOUTHERN OCEAN", 
+        "Location_Subregion1": "ROSS SEA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "SOUTHERN OCEAN", 
+        "Location_Subregion1": "SOUTH SHETLAND ISLANDS", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "SOUTHERN OCEAN", 
+        "Location_Subregion1": "WEDDELL SEA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "SOUTHERN OCEAN", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "OCEAN", 
+        "Location_Type": "", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SOLID EARTH", 
+        "Location_Type": "CORE", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SOLID EARTH", 
+        "Location_Type": "CRUST", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SOLID EARTH", 
+        "Location_Type": "MANTLE", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SOLID EARTH", 
+        "Location_Type": "", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "EARTH MAGNETIC FIELD", 
+        "Location_Subregion1": "BOW SHOCK", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "EARTH MAGNETIC FIELD", 
+        "Location_Subregion1": "CUSP", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "EARTH MAGNETIC FIELD", 
+        "Location_Subregion1": "HIGH LATITUDE MAGNETOSPHERE", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "EARTH MAGNETIC FIELD", 
+        "Location_Subregion1": "INNER MAGNETOSPHERE", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "EARTH MAGNETIC FIELD", 
+        "Location_Subregion1": "MAGNETOPAUSE", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "EARTH MAGNETIC FIELD", 
+        "Location_Subregion1": "MAGNETOSPHERE (OTHER)", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "EARTH MAGNETIC FIELD", 
+        "Location_Subregion1": "MAGNETOTAIL", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "EARTH MAGNETIC FIELD", 
+        "Location_Subregion1": "NEUTRAL SHEET", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "EARTH MAGNETIC FIELD", 
+        "Location_Subregion1": "SPACE", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "EARTH MAGNETIC FIELD", 
+        "Location_Subregion1": "VAN ALLEN RADIATION BELTS", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "EARTH MAGNETIC FIELD", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "SOLAR REGION", 
+        "Location_Subregion1": "CHROMOSPHERE", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "SOLAR REGION", 
+        "Location_Subregion1": "CORONA", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "SOLAR REGION", 
+        "Location_Subregion1": "PHOTOSPHERE", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "SOLAR REGION", 
+        "Location_Subregion1": "SOLAR CORE", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "SOLAR REGION", 
+        "Location_Subregion1": "SOLAR INTERIOR", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "SOLAR REGION", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "SPACE", 
+        "Location_Type": "", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "VERTICAL LOCATION", 
+        "Location_Type": "BOUNDARY LAYER", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "VERTICAL LOCATION", 
+        "Location_Type": "IONOSPHERE", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "VERTICAL LOCATION", 
+        "Location_Type": "LAND SURFACE", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "VERTICAL LOCATION", 
+        "Location_Type": "MESOSPHERE", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "VERTICAL LOCATION", 
+        "Location_Type": "SEA FLOOR", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "VERTICAL LOCATION", 
+        "Location_Type": "SEA SURFACE", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "VERTICAL LOCATION", 
+        "Location_Type": "STRATOSPHERE", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "VERTICAL LOCATION", 
+        "Location_Type": "THERMOSPHERE", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "VERTICAL LOCATION", 
+        "Location_Type": "TROPOSPHERE", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }, 
+    {
+        "Location_Category": "VERTICAL LOCATION", 
+        "Location_Type": "", 
+        "Location_Subregion1": "", 
+        "Location_Subregion2": "", 
+        "Location_Subregion3": ""
+    }
+]

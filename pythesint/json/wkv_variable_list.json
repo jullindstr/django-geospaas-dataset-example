@@ -1,0 +1,474 @@
+[
+    {
+        "long_name": "Radial Doppler Current", 
+        "standard_name": "surface_radial_doppler_sea_water_velocity", 
+        "units": "m s-1", 
+        "colormap": "jet", 
+        "short_name": "Ur", 
+        "minmax": "-1 1"
+    }, 
+    {
+        "long_name": "Radar Doppler frequency shift due to surface velocity", 
+        "standard_name": "surface_backwards_doppler_frequency_shift_of_radar_wave_due_to_surface_velocity", 
+        "units": "Hz", 
+        "colormap": "jet", 
+        "short_name": "fdg", 
+        "minmax": "-60 60"
+    }, 
+    {
+        "long_name": "Radar Doppler frequency shift due to wind waves", 
+        "standard_name": "surface_backwards_doppler_frequency_shift_of_radar_wave_due_to_wind_waves", 
+        "units": "Hz", 
+        "colormap": "jet", 
+        "short_name": "fww", 
+        "minmax": "-60 60"
+    }, 
+    {
+        "long_name": "Geometrically predicted Doppler frequency shift of radar wave", 
+        "standard_name": "predicted_surface_backwards_doppler_frequency_shift_of_radar_wave", 
+        "units": "Hz", 
+        "colormap": "jet", 
+        "short_name": "fdp", 
+        "minmax": "0 2000"
+    }, 
+    {
+        "long_name": "Standard deviation of Radar Doppler centroid frequency shift estimate", 
+        "standard_name": "standard_deviation_of_surface_backwards_doppler_centroid_frequency_shift_of_radar_wave", 
+        "units": "Hz", 
+        "colormap": "jet", 
+        "short_name": "dc_std", 
+        "minmax": "0 5"
+    }, 
+    {
+        "long_name": "Radar Doppler centroid frequency shift", 
+        "standard_name": "surface_backwards_doppler_centroid_frequency_shift_of_radar_wave", 
+        "units": "Hz", 
+        "colormap": "jet", 
+        "short_name": "dc", 
+        "minmax": "0 2000"
+    }, 
+    {
+        "long_name": "Radar Doppler centroid frequency shift subtracted by the geometrically predicted Doppler frequency shift", 
+        "standard_name": "anomaly_of_surface_backwards_doppler_centroid_frequency_shift_of_radar_wave", 
+        "units": "Hz", 
+        "colormap": "jet", 
+        "short_name": "dca", 
+        "minmax": "-100 100"
+    }, 
+    {
+        "long_name": "Valid pixels in grid of radar Doppler centroid frequency shift", 
+        "standard_name": "valid_pixels_in_grid_of_surface_backwards_doppler_centroid_frequency_shift_of_radar_wave", 
+        "units": "na", 
+        "colormap": "jet", 
+        "short_name": "valid_doppler", 
+        "minmax": "0 2"
+    }, 
+    {
+        "long_name": "Valid land cover pixels in grid of radar Doppler centroid frequency shift", 
+        "standard_name": "valid_land_pixels_in_grid_of_surface_backwards_doppler_centroid_frequency_shift_of_radar_wave", 
+        "units": "na", 
+        "colormap": "jet", 
+        "short_name": "valid_land_doppler", 
+        "minmax": "0 1"
+    }, 
+    {
+        "long_name": "Valid sea cover pixels in grid of radar Doppler centroid frequency shift", 
+        "standard_name": "valid_sea_pixels_in_grid_of_surface_backwards_doppler_centroid_frequency_shift_of_radar_wave", 
+        "units": "na", 
+        "colormap": "jet", 
+        "short_name": "valid_sea_doppler", 
+        "minmax": "0 1"
+    }, 
+    {
+        "long_name": "Reflectivity per unit area in slant range", 
+        "standard_name": "surface_backwards_brightness_coefficient_of_radar_wave", 
+        "units": "m/m", 
+        "colormap": "gray", 
+        "short_name": "beta0", 
+        "minmax": "0 0.1"
+    }, 
+    {
+        "long_name": "Normalized Radar Cross Section", 
+        "standard_name": "surface_backwards_scattering_coefficient_of_radar_wave", 
+        "units": "m/m", 
+        "colormap": "gray", 
+        "short_name": "sigma0", 
+        "minmax": "0 0.1"
+    }, 
+    {
+        "long_name": "Normalized Radar Cross Section - normalized over ice", 
+        "standard_name": "surface_backwards_scattering_coefficient_of_radar_wave_normalized_over_ice", 
+        "units": "m/m", 
+        "colormap": "gray", 
+        "short_name": "sigma0_ice", 
+        "minmax": "0 0.1"
+    }, 
+    {
+        "long_name": "Normalized Radar Cross Section - normalized over water", 
+        "standard_name": "surface_backwards_scattering_coefficient_of_radar_wave_normalized_over_water", 
+        "units": "m/m", 
+        "colormap": "gray", 
+        "short_name": "sigma0_water", 
+        "minmax": "0 0.1"
+    }, 
+    {
+        "long_name": "Albedo", 
+        "standard_name": "albedo", 
+        "units": "percent", 
+        "colormap": "gray", 
+        "short_name": "albedo", 
+        "minmax": "0 100"
+    }, 
+    {
+        "long_name": "Eastward wind velocity", 
+        "standard_name": "eastward_wind", 
+        "units": "m s-1", 
+        "colormap": "jet", 
+        "short_name": "U", 
+        "minmax": "-10 10"
+    }, 
+    {
+        "long_name": "Northward wind velocity", 
+        "standard_name": "northward_wind", 
+        "units": "m s-1", 
+        "colormap": "jet", 
+        "short_name": "V", 
+        "minmax": "-10 10"
+    }, 
+    {
+        "long_name": "Wind speed", 
+        "standard_name": "wind_speed", 
+        "units": "m s-1", 
+        "colormap": "jet", 
+        "short_name": "W", 
+        "minmax": "0 18"
+    }, 
+    {
+        "long_name": "Wind direction (towards)", 
+        "standard_name": "wind_to_direction", 
+        "units": "degrees", 
+        "colormap": "jet", 
+        "short_name": "D", 
+        "minmax": "0 360"
+    }, 
+    {
+        "long_name": "Wind direction (from)", 
+        "standard_name": "wind_from_direction", 
+        "units": "degrees", 
+        "colormap": "jet", 
+        "short_name": "D", 
+        "minmax": "0 360"
+    }, 
+    {
+        "long_name": "Upward spectral radiance", 
+        "standard_name": "surface_upwelling_spectral_radiance_in_air_emerging_from_sea_water", 
+        "units": "W m-2 m-1 sr-1", 
+        "colormap": "jet", 
+        "short_name": "nLw", 
+        "minmax": "0.000 500"
+    }, 
+    {
+        "long_name": "Reflectance", 
+        "standard_name": "surface_ratio_of_upwelling_radiance_emerging_from_sea_water_to_downwelling_radiative_flux_in_air", 
+        "units": "sr-1", 
+        "colormap": "jet", 
+        "short_name": "Rrs", 
+        "minmax": "0.000 0.05"
+    }, 
+    {
+        "long_name": "Reflectance", 
+        "standard_name": "surface_ratio_of_upwelling_radiance_emerging_from_sea_water_to_downwelling_radiative_flux_in_water", 
+        "units": "sr-1", 
+        "colormap": "jet", 
+        "short_name": "Rrsw", 
+        "minmax": "0.000 0.05"
+    }, 
+    {
+        "long_name": "Chlorophyll-a", 
+        "standard_name": "mass_concentration_of_chlorophyll_a_in_sea_water", 
+        "units": "kg m-3", 
+        "colormap": "jet", 
+        "short_name": "chlor_a", 
+        "minmax": "0.001 15.000"
+    }, 
+    {
+        "long_name": "Sea Surface Temperature", 
+        "standard_name": "sea_surface_temperature", 
+        "units": "celsius", 
+        "colormap": "jet", 
+        "short_name": "SST", 
+        "minmax": "10 25"
+    }, 
+    {
+        "long_name": "Sea Surface Salinity", 
+        "standard_name": "sea_surface_salinity", 
+        "units": "psu", 
+        "colormap": "jet", 
+        "short_name": "SSS", 
+        "minmax": "30 40"
+    }, 
+    {
+        "long_name": "Yellow Substance Absorption", 
+        "standard_name": "volume_absorption_coefficient_of_radiative_flux_in_sea_water_due_to_dissolved_organic_matter", 
+        "units": "m-1", 
+        "colormap": "jet", 
+        "short_name": "cdom_a", 
+        "minmax": "0.000 2.000"
+    }, 
+    {
+        "long_name": "Dissolved Organic Carbon", 
+        "standard_name": "mass_concentration_of_dissolved_organic_carbon_in_sea_water", 
+        "units": "kg m-3", 
+        "colormap": "jet", 
+        "short_name": "doc", 
+        "minmax": "0.001 10.000"
+    }, 
+    {
+        "long_name": "Inorganic Suspended Matter", 
+        "standard_name": "mass_concentration_of_suspended_matter_in_sea_water", 
+        "units": "kg m-3", 
+        "colormap": "jet", 
+        "short_name": "tsm", 
+        "minmax": "0.001 5.000"
+    }, 
+    {
+        "long_name": "Kd_490", 
+        "standard_name": "volume_attenuation_coefficient_of_downwelling_radiative_flux_in_sea_water", 
+        "units": "m-1", 
+        "colormap": "jet", 
+        "short_name": "Kd", 
+        "minmax": "0.000 2.000"
+    }, 
+    {
+        "long_name": "Sensor Zenith Angle", 
+        "standard_name": "sensor_zenith_angle", 
+        "units": "degrees", 
+        "colormap": "jet", 
+        "short_name": "sensor_zenith", 
+        "minmax": "0 90"
+    }, 
+    {
+        "long_name": "Sensor View Angle", 
+        "standard_name": "sensor_view_angle", 
+        "units": "degrees", 
+        "colormap": "jet", 
+        "short_name": "sensor_view", 
+        "minmax": "0 90"
+    }, 
+    {
+        "long_name": "Sensor Azimuth Angle", 
+        "standard_name": "sensor_azimuth_angle", 
+        "units": "degrees", 
+        "colormap": "jet", 
+        "short_name": "sensor_azimuth", 
+        "minmax": "0 360"
+    }, 
+    {
+        "long_name": "Solar Zenith Angle", 
+        "standard_name": "solar_zenith_angle", 
+        "units": "degrees", 
+        "colormap": "jet", 
+        "short_name": "sol_zenith", 
+        "minmax": "0 90"
+    }, 
+    {
+        "long_name": "Solar Azimuth Angle", 
+        "standard_name": "solar_azimuth_angle", 
+        "units": "degrees", 
+        "colormap": "jet", 
+        "short_name": "sol_azimuth", 
+        "minmax": "0 360"
+    }, 
+    {
+        "long_name": "Incidence Angle", 
+        "standard_name": "angle_of_incidence", 
+        "units": "degrees", 
+        "colormap": "jet", 
+        "short_name": "incidence_angle", 
+        "minmax": "0 90"
+    }, 
+    {
+        "long_name": "Quality Flags", 
+        "standard_name": "quality_flags", 
+        "units": "na", 
+        "colormap": "jet", 
+        "short_name": "flags", 
+        "minmax": "0 1"
+    }, 
+    {
+        "long_name": "Air Temperature", 
+        "standard_name": "air_temperature", 
+        "units": "celsius", 
+        "colormap": "jet", 
+        "short_name": "T", 
+        "minmax": "10 30"
+    }, 
+    {
+        "long_name": "Brightness Temperature", 
+        "standard_name": "brightness_temperature", 
+        "units": "kelvin", 
+        "colormap": "jet", 
+        "short_name": "BT", 
+        "minmax": "230 330"
+    }, 
+    {
+        "long_name": "Digital elevation model height above mean sea level", 
+        "standard_name": "height_above_reference_ellipsoid", 
+        "units": "m", 
+        "colormap": "jet", 
+        "short_name": "topo", 
+        "minmax": "0 4000"
+    }, 
+    {
+        "long_name": "Land mask", 
+        "standard_name": "land_binary_mask", 
+        "units": "na", 
+        "colormap": "jet", 
+        "short_name": "landmask", 
+        "minmax": "0 1"
+    }, 
+    {
+        "long_name": "Swath mask", 
+        "standard_name": "swath_binary_mask", 
+        "units": "na", 
+        "colormap": "jet", 
+        "short_name": "swathmask", 
+        "minmax": "0 1"
+    }, 
+    {
+        "long_name": "Latitude", 
+        "standard_name": "latitude", 
+        "units": "deg N", 
+        "colormap": "jet", 
+        "short_name": "latitude", 
+        "minmax": "-90 90"
+    }, 
+    {
+        "long_name": "Longitude", 
+        "standard_name": "longitude", 
+        "units": "deg E", 
+        "colormap": "jet", 
+        "short_name": "longitude", 
+        "minmax": "-180 180"
+    }, 
+    {
+        "long_name": "Eastward Geostrophic Current", 
+        "standard_name": "surface_geostrophic_eastward_sea_water_velocity", 
+        "units": "cm s-1", 
+        "colormap": "jet", 
+        "short_name": "U", 
+        "minmax": "-20 20"
+    }, 
+    {
+        "long_name": "Northward Geostrophic Current", 
+        "standard_name": "surface_geostrophic_northward_sea_water_velocity", 
+        "units": "cm s-1", 
+        "colormap": "jet", 
+        "short_name": "V", 
+        "minmax": "-20 20"
+    }, 
+    {
+        "long_name": "Sea Surface Anomaly", 
+        "standard_name": "sea_surface_height_above_sea_level", 
+        "units": "m", 
+        "colormap": "jet", 
+        "short_name": "SSA", 
+        "minmax": "-100 100"
+    }, 
+    {
+        "long_name": "Sea Surface Height", 
+        "standard_name": "sea_surface_height_above_geoid", 
+        "units": "cm", 
+        "colormap": "jet", 
+        "short_name": "SSH", 
+        "minmax": "-100 100"
+    }, 
+    {
+        "long_name": "Sea Ice Concentration", 
+        "standard_name": "sea_ice_area_fraction", 
+        "units": "%", 
+        "colormap": "jet", 
+        "short_name": "ice_conc", 
+        "minmax": "0 100"
+    }, 
+    {
+        "long_name": "Net Primary Production", 
+        "standard_name": "net_primary_productivity_of_carbon", 
+        "units": "kg m-2 s-1", 
+        "colormap": "jet", 
+        "short_name": "npp", 
+        "minmax": "0 10000"
+    }, 
+    {
+        "long_name": "top of atmosphere emitted toward outer space per unit wavenumber or as a function of wavenumber radiative flux in a particular direction, per unit of solid angle", 
+        "standard_name": "toa_outgoing_spectral_radiance", 
+        "units": "mW m-2 sr-1 (cm-1)-1", 
+        "colormap": "jet", 
+        "short_name": "L", 
+        "minmax": "0.000 1000"
+    }, 
+    {
+        "long_name": "Instantaneous Photosynthetically Available Radiation", 
+        "standard_name": "instantaneous_photosynthetically_available_radiation", 
+        "units": "mol m-2 s-1 sr-1", 
+        "colormap": "jet", 
+        "short_name": "PAR", 
+        "minmax": "0 0.0024"
+    }, 
+    {
+        "long_name": "Particle backscatter", 
+        "standard_name": "volume_backscattering_coefficient_of_radiative_flux_in_sea_water_due_to_suspended_particles", 
+        "units": "m-1", 
+        "colormap": "jet", 
+        "short_name": "bbp", 
+        "minmax": "0 0.1"
+    }, 
+    {
+        "long_name": "Sea Surface Temperature", 
+        "standard_name": "sea_surface_skin_temperature", 
+        "units": "kelvin", 
+        "colormap": "jet", 
+        "short_name": "SST", 
+        "minmax": "280 300"
+    }, 
+    {
+        "long_name": "Photosynthetically Available Radiation", 
+        "standard_name": "downwelling_photosynthetic_photon_radiance_in_sea_water", 
+        "units": "mol m-2 s-1 sr-1", 
+        "colormap": "jet", 
+        "short_name": "PAR", 
+        "minmax": "0 80"
+    }, 
+    {
+        "long_name": "Instantaneous Photosynthetically Available Radiation", 
+        "standard_name": "instantaneous_downwelling_photosynthetic_photon_radiance_in_sea_water", 
+        "units": "mol m-2 s-1 sr-1", 
+        "colormap": "jet", 
+        "short_name": "IPAR", 
+        "minmax": "0 80"
+    }, 
+    {
+        "long_name": "Depth", 
+        "standard_name": "depth", 
+        "units": "m", 
+        "colormap": "jet", 
+        "short_name": "depth", 
+        "minmax": "0 13000"
+    }, 
+    {
+        "long_name": "Coccoliths", 
+        "standard_name": "concentration_of_coccoliths_in_sea_water", 
+        "units": "10e12 plates m-3", 
+        "colormap": "jet", 
+        "short_name": "ccl", 
+        "minmax": "0.001 15.000"
+    }, 
+    {
+        "long_name": "Status flag", 
+        "standard_name": "status_flag", 
+        "units": "na", 
+        "colormap": "jet", 
+        "short_name": "status_flag", 
+        "minmax": "0 1"
+    }
+]
