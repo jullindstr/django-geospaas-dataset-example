@@ -9,6 +9,7 @@
   <body>
     <h4> {{dataset}}</h4>
         <ul>
+	      <li> File name: {{dataset|file_uri}}
 	      <li> Data Center: {{ dataset.data_center }}</li>
               <li>ISOtopic category: {{dataset.ISO_topic_category}} </li>
 	      <li> Source: {{ dataset.source }} </li>
