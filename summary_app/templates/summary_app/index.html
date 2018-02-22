@@ -12,7 +12,7 @@
 	 {% if datasets %}
            {% for ds in datasets %}
 	
-               <li> <a href="{%url 'summary_app:dataset_table' ds.id%}">{{ds}} </a></li>
+               <li> <a href="{{ ds.id}}">{{ds}} </a></li>
             
            {% endfor %}
 	 {%else%}
