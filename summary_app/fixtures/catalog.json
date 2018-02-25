@@ -17,8 +17,8 @@
     "model": "catalog.dataset",
     "fields": {
         "entry_title": "Test dataset",
-        "time_coverage_end": "2010-01-02T00:00:00Z",
-        "time_coverage_start": "2010-01-01T00:00:00Z",
+        "time_coverage_end": "2015-08-02T17:29:54.066281+00:00",
+        "time_coverage_start": "2015-07-02T17:29:54.066281+00:00",
         "summary": "This is a quite short summary about the test dataset.",
         "source": ["AQUA", "MODIS"],
         "geographic_location": 1,
@@ -28,6 +28,15 @@
         "access_constraints": null
     }
 },{
+    "pk": 1,
+    "model": "catalog.DatasetURI",
+    "fields": {
+	"dataset": "1",
+	"uri": "file://localhost/home/vagrant/geosaas_dataset_summary/AQUA_MODIS_2010-01-02T00:00:00Z.zip"
+  }
+},
+
+{
     "pk": 2,
     "model": "catalog.dataset",
     "fields": {

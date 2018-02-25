@@ -1,22 +1,20 @@
-{% load summary_extras %}
+{% extends "summary_app/base.html" %}
+{% block body_block%}
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset = 'utf-8'>
-	<title> List of datasets </title>
-  </head>
-  <body>
-    <p>There are <b> {{ datasets|length}} datasets </b> in the database.</p>
-    <h4> List of datasets: </h4>
-	 {% if datasets %}
-           {% for ds in datasets %}
+<div class = "jumbotron">
 	
-               <li> <a href="{{ ds.id}}">{{ds}} </a></li>
-            
+	<p> There are <b> {{ datasets|length}} datasets </b> in the catalogue.</p>
+	<h4> List of datasets: </h4>
+		
+	{% if datasets %}
+	
+           {% for ds in datasets %}
+	     <p> <a href="{{ ds.id}}">{{ds}}</a></p>             
            {% endfor %}
-	 {%else%}
-	 <p> There are no datasets available in the database.</p>
-	 {%endif%}
-	</body>
-</html>
+	 
+	{%else%}
+	   <p> There are no datasets available in the database.</p>
+	{%endif%}
+	
+</div>
+{% endblock %}

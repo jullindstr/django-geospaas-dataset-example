@@ -1,25 +1,24 @@
+{% extends "summary_app/base.html" %}
+{% block body_block %}
 {% load summary_extras %}
+<div class ="jumbotron">
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset = 'utf-8'>
-	<title> Datasets table </title>
-  </head>
-  <body>
-    <h4> {{dataset}}</h4>
+    <h4> Dataset: {{ dataset}} </h4>
+	<br></br>
         <ul>
 	      <li> File name: {{dataset|file_uri}}
 	      <li> Data Center: {{ dataset.data_center }}</li>
               <li>ISOtopic category: {{dataset.ISO_topic_category}} </li>
-	      <li> Source: {{ dataset.source }} </li>
+	      <li> Source Platform: {{ dataset.source.platform}}
+	      <li> Source Instrument: {{dataset.source.instrument}}
 	      <li> Minimum latitude: {{dataset.geographic_location.geometry.coords|min_lat}}
 	      <li> Maximum latitude: {{dataset.geographic_location.geometry.coords|max_lat}}
 	      <li> Minimum longitude: {{dataset.geographic_location.geometry.coords|min_long}}
 	      <li> Maximum longitude: {{dataset.geographic_location.geometry.coords|max_long}}
+		
 	      <li> <a href="{%url 'summary_app:output_json' dataset.id%}">Json </a></li>             
 	</ul>
-	<p> Json: {{output}}</p>
-
-  </body>
-</html>
+	
+</div>
+  
+{% endblock %}
