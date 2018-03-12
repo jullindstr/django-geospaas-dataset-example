@@ -1,25 +1,25 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
-import json 
+import json
+ 
 from django.test import TestCase 
 from django.test.client import Client
 from django.core.urlresolvers import reverse
+from django.core.serializers import serialize
 
 from geospaas.catalog.models import * 
 from geospaas.vocabularies.models import *
-
-
 
 class DatasetTableViewTestCase(TestCase):
     fixtures = ['summary_app/fixtures/vocabularies.json','summary_app/fixtures/catalog.json']
 
     def setUp(self):
-	self.ds = Dataset.objects.all().get(pk = 1)
+	self.ds = Dataset.objects.get(pk=1)
     
     def test_view_dataset_table(self):
 	client = Client()
-	loc = GeographicLocation.objects.all().get(pk = 1)
-	uri = DatasetURI.objects.all().get(pk = 1)
+	loc = GeographicLocation.objects.get(pk=1)
+	uri = DatasetURI.objects.get(pk=1)
 	resp = self.client.get('/summary_app/1/')
 	self.assertEqual(resp.status_code, 200)
 	self.assertEqual(resp.context['dataset'].pk, 1)
@@ -30,11 +30,17 @@ class DatasetTableViewTestCase(TestCase):
 	self.assertContains(resp, str(self.ds.source.platform))
 	self.assertTrue(str(self.ds.source.platform) in resp.content)
 	self.assertTrue(str(self.ds.source.instrument) in resp.content)
-	#self.assertEqual(str(self.ds.gcmd_location.category), Location.objects.all().get(pk = 1).category)
-	self.assertEqual(self.ds.dataseturi_set.get(pk = 1), uri)
-        #self.assertEqual(self.ds.geographic_location.geometry, loc.coords)
-	self.assertTemplateUsed('dataset_table')
-	self.assertIn('<a href="%s">Json </a>' %reverse ('summary_app:output_json', kwargs = {'pk': 1}), resp.content)
+	self.assertEqual(self.ds.dataseturi_set.get(pk=1), uri)
+        self.assertTemplateUsed('dataset_table')
+	self.assertIn('<a href="%s">JSON </a>' %reverse('summary_app:output_json', kwargs={'pk':1}), resp.content)
+
+    def test_json_output (self):
+	clent = Client()
+	resp = self.client.get('/summary_app/1/json/')
+	self.assertEqual(resp.status_code, 200)
+	self.ds_json = json.loads(serialize('geojson', [self.ds]))
+        self.assertEqual(self.ds_json, json.loads(serialize('geojson',[self.ds])))
+
 
 class IndexViewTestCase(TestCase):
 

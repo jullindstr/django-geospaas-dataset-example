@@ -1,13 +1,18 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
-from django.http import HttpResponse
-from django.views import generic
-
-from django.core.serializers import serialize
-from geospaas.catalog.models import Dataset, GeographicLocation
 import json
 
+from django.http import HttpResponse
+from django.views import generic
+from django.core.serializers import serialize
+
+from geospaas.catalog.models import Dataset, GeographicLocation
+
+
 class DatasetView(generic.DetailView):
+    
+    ''' Display an individual dataset summary '''
+    
     model = Dataset
     template_name = 'summary_app/dataset_table.html'
     
@@ -23,31 +28,20 @@ class DatasetView(generic.DetailView):
        # context['output'] =json.dumps(dataset_result)
 	#return context
 
+class IndexView(generic.ListView): 
     
-
-class IndexView(generic.ListView): 	 
+    ''' Display a list of available datasets '''
+	 
     model = Dataset
     context_object_name = 'datasets'
     template_name = 'summary_app/index.html'
     
 
-class JsonView(generic.DetailView):
-    template_name = 'summary_app/dataset_json.html'
-    model = Dataset
-
-    def get(self, request, pk):
-        data = Dataset.objects.all().filter(pk = pk)
-        dataset_result = json.loads(serialize('geojson', data, geometry_field = 'geographic_location__geometry'))
-        gl = GeographicLocation.objects.filter(dataset=data)
-        gl_result = json.loads(serialize('geojson', gl, geometry_field='geometry'))
-        geom_dict = gl_result.get('features')[0]
-        dataset_result.update(geom_dict)
-        #context= {'output':json.dumps(dataset_result, sort_keys = True)}
-        return HttpResponse(json.dumps(dataset_result, sort_keys = True, indent = 4), content_type = 'json')
-	#return JsonResponse(context)
-   
+def output_json(request, pk):
     
+    ''' Display a dataset parameters, including geometry coordinates, in JSON format '''
 
-    
-
-	
+    ds = Dataset.objects.get(pk=pk)
+    ds_json = json.loads(serialize('geojson', [ds]))
+    ds_json['features'][0]['geometry'] = json.loads(serialize('geojson', [ds.geographic_location]))['features'][0]['geometry']
+    return HttpResponse(json.dumps(ds_json), content_type='json')

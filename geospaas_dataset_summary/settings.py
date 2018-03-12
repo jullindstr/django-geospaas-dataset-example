@@ -27,7 +27,7 @@ SECRET_KEY = 'a_d88y$%1(qxk))i@61za$9xf^2d$84&hm%umw8^jgm6!a4m0)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.33.10']
+ALLOWED_HOSTS = ['192.168.33.10', 'testserver']
 SERIALIZATION_MODULES = {"geojson": "django.contrib.gis.serializers.geojson",}
 
 # Application definition
