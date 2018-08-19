@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os
 from setuptools import find_packages, setup
 
@@ -16,7 +17,7 @@ setup(
     description='A simple Django app for viewing some information about Geo-Spaas datasets.',
     long_description=README,
     url='',
-    author='Julia Lindstroem',
+    author='Julia Lindström',
     author_email='julia.lindstrom@student.uib.no',
     classifiers=[
         'Environment :: Web Environment',
