@@ -5,7 +5,7 @@
          - wget http://repo.continuum.io/miniconda/Miniconda-latest-Linux-x86_64.sh -O miniconda.sh
          - bash miniconda.sh -b -f -p $HOME/miniconda
          - export PATH=$HOME/miniconda/bin:$PATH
-        
+         - "export PYTHONPATH=$PYTHONPATH:$(pwd)"
     env:
         - PYTHON_VERSION=2.7 DJANGO_VERSION=1.11.7 
     
