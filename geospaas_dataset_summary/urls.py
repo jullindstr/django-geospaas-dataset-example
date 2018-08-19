@@ -16,10 +16,10 @@ Including another URLconf
 from django.conf.urls import url, include
 from django.contrib import admin
 
+
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     #url(r'^', include('summary_app.urls', namespace = 'summary_app')),
     url(r'^summary_app/', include('summary_app.urls', namespace = 'summary_app')),
-
-]
+    ]
 

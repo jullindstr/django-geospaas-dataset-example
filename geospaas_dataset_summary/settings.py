@@ -43,10 +43,13 @@ INSTALLED_APPS = [
     'geospaas.nansat_ingestor',
     'geospaas.vocabularies',
     'summary_app',
-    
-
+   
 ]
-
+ELASTICSEARCH_DSL = {
+    'default':{
+	'hosts':'192.168.33.10:9200'
+    },
+}
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
