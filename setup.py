@@ -16,7 +16,7 @@ setup(
     description='A simple Django app for viewing some information about Geo-Spaas datasets.',
     long_description=README,
     url='',
-    author='Julia Lindström',
+    author='Julia Lindstroem',
     author_email='julia.lindstrom@student.uib.no',
     classifiers=[
         'Environment :: Web Environment',
