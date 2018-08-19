@@ -10,7 +10,7 @@
         - PYTHON_VERSION=2.7 DJANGO_VERSION=1.11.7 
     
     install:
-        - conda create -n test_env python=$PYTHON_VERSION django=$DJANGO_VERSION
+        - conda create -n test_env python=$PYTHON_VERSION django=$DJANGO_VERSION gdal mock nansat pythesint coveralls -c conda-forge --yes
         - source activate test_env
         - pip install https://github.com/ghaering/pysqlite/archive/2.8.1.tar.gz;
         - python setup.py install
